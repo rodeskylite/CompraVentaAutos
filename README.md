@@ -18,7 +18,7 @@ Objetivos
 - Recopilar datos a través de web scraping y APIs públicas.
 - Procesar y limpiar los datos para eliminar inconsistencias y valores nulos.
 - Entrenar modelos predictivos como Random Forest y XGBoost para estimar precios.
-- Implementar una interfaz gráfica para facilitar el uso de la herramienta.
+- Entregar los resultados de los modelos predictivos.
 
 Tecnologías Utilizadas
 - Python 3.8+
@@ -27,15 +27,11 @@ Tecnologías Utilizadas
 - Scikit-learn
 - XGBoost
 - Selenium/Scrapy
-- Flask - Para el desarrollo de la API backend.
-- React.js - Para el frontend.
-- Docker - Para el despliegue en producción.
 
 # Instalación
 # Requisitos previos
 Asegúrate de tener instaladas las siguientes herramientas en tu sistema:
 - Python 3.8+
-- Docker
 - Git
 
 # Predicción de Precios de Vehículos Usados en Chile
@@ -63,8 +59,6 @@ Este proyecto busca desarrollar un modelo de machine learning para predecir los 
     ├── models/                   # Almacena los modelos entrenados
     ├── scraping/                 # Scripts para recolección de datos con Scrapy
     ├── notebooks/                # Jupyter Notebooks para análisis exploratorio
-    ├── src/                      # Código fuente del backend y frontend
-    ├── Dockerfile                # Configuración para despliegue en Docker
     ├── requirements.txt          # Dependencias de Python
     └── README.md                 # Este archivo
 
