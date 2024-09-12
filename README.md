@@ -52,17 +52,18 @@ Este proyecto busca desarrollar un modelo de machine learning para predecir los 
    pip install -r requirements.txt
 
 # Estructura del Proyecto
-     ```bash
-     prediccion-precios-autos-usados/
-    │
-    ├── data/                     # Contiene los datasets recolectados
-    ├── models/                   # Almacena los modelos entrenados
-    ├── scraping/                 # Scripts para recolección de datos con Scrapy
-    ├── notebooks/                # Jupyter Notebooks para análisis exploratorio
-    ├── requirements.txt          # Dependencias de Python
-    └── README.md                 # Este archivo
 
-# Licencia
+      prediccion-precios-autos-usados/
+      │
+      ├── data/                     # Contiene los datasets recolectados
+      ├── models/                   # Almacena los modelos entrenados
+      ├── scraping/                 # Scripts para recolección de datos con Scrapy
+      ├── notebooks/                # Jupyter Notebooks para análisis exploratorio
+      ├── requirements.txt          # Dependencias de Python
+      └── README.md                 # Este archivo
+
+
+## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
 
 # Contacto
