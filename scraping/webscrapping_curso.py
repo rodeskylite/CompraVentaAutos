@@ -31,13 +31,13 @@ class ChileAutosCrawler(CrawlSpider):
 
     custom_settings = {
       'USER_AGENT': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6613.120 Safari/537.36',
-      'CLOSESPIDER_PAGECOUNT': 10000 # Numero maximo de paginas en las cuales voy a descargar items. Scrapy se cierra cuando alcanza este numero
+      'CLOSESPIDER_PAGECOUNT': 1000 # Numero maximo de paginas en las cuales voy a descargar items. Scrapy se cierra cuando alcanza este numero
     }
 
     # Utilizamos 2 dominios permitidos, ya que los articulos utilizan un dominio diferente
     allowed_domains = ['www.chileautos.cl', 'chileautos.cl']
 
-    start_urls = ['https://www.chileautos.cl/vehiculos/autos-veh%C3%ADculo/']
+    start_urls = ['https://www.chileautos.cl/vehiculos/autos-veh%C3%ADculo/?offset=0']
 
     download_delay = 3
 
@@ -45,7 +45,7 @@ class ChileAutosCrawler(CrawlSpider):
     rules = (
         Rule( # REGLA #1 => HORIZONTALIDAD POR PAGINACION
             LinkExtractor(
-                allow=r'/?offset=\d+' # Patron en donde se utiliza "\d+", expresion que puede tomar el valor de cualquier combinacion de numeros /?offset=36
+                allow=r'/vehiculos/autos-veh%C3%ADculo/\?offset=\d+' # Patron en donde se utiliza "\d+", expresion que puede tomar el valor de cualquier combinacion de numeros /?offset=36
             ), follow=True),
         Rule( # REGLA #2 => VERTICALIDAD AL DETALLE DE LOS PRODUCTOS
             LinkExtractor(
