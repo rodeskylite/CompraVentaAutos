@@ -1,0 +1,1225 @@
+marca,modelo,precio,kilometraje,motor,region,año,combustible,transmision
+AUDI,Q2,27.99,14800,1.4,Metropolitana,2023,gasolina,automatico
+M. BENZ,GLA,20.5,57200,1.6,Biobío,2019,gasolina,automatico
+DS,DS3,19.95,21742,1.2,Metropolitana,2022,gasolina,automatico
+SKODA,FABIA,10.89,43000,1.0,Metropolitana,2021,gasolina,mecanico
+GEELY,AZKARRA,17.5,30000,1.5,Antofagasta,2022,gasolina,automatico
+HYUNDAI,CRETA,8.9,120000,1.6,Antofagasta,2018,gasolina,
+M. BENZ,C,39.97,63000,,Metropolitana,2019,gasolina,automatico
+SUZUKI,GRAND NOMADE,8.5,120000,2.4,Antofagasta,2015,gasolina,mecanico
+VOLKSWAGEN,AMAROK,21.99,65000,2.0,Metropolitana,2021,diesel,mecanico
+JEEP,PATRIOT,10.9,119000,2.4,Biobío,2015,gasolina,automatico
+MITSUBISHI,L200,9.58,122965,,Metropolitana,2015,diesel,mecanico
+SUZUKI,SWIFT,6.5,118000,,Metropolitana,2012,gasolina,automatico
+JEEP,GRAND CHEROKEE,18.98,135600,3.6,Metropolitana,2016,gasolina,automatico
+CHANGAN,UNI-T,18.99,17000,1.5,Metropolitana,2022,gasolina,automatico
+AUDI,A7,14.98,171000,3.0,Metropolitana,2013,gasolina,automatico
+M. BENZ,A200,15.89,103276,1.6,Metropolitana,2015,gasolina,automatico
+RENAULT,SYMBOL,7.48,44000,1.6,Metropolitana,2021,gasolina,mecanico
+AUDI,Q3,33.97,5795,1.4,Metropolitana,2024,gasolina,automatico
+MAZDA,MAZDA3,12.98,69809,2.5,Metropolitana,2018,gasolina,automatico
+AUDI,A3,13.3,90673,1.4,Metropolitana,2018,gasolina,automatico
+RENAULT,SYMBOL,7.48,44000,1.6,Metropolitana,2021,gasolina,mecanico
+FIAT,UNO,7.48,64000,1.4,Metropolitana,2021,gasolina,mecanico
+SUBARU,OUTBACK,16.3,129816,2.5,Metropolitana,2019,gasolina,automatico
+FORD,ESCAPE,4.49,140000,3.0,Ñuble,2004,gasolina,automatico
+SUZUKI,BALENO,8.6,83139,1.4,Metropolitana,2018,gasolina,automatico
+FORD,EXPLORER,28.97,53953,2.3,Metropolitana,2020,gasolina,automatico
+VOLKSWAGEN,TIGUAN,15.1,95541,2.0,Metropolitana,2018,gasolina,automatico
+MITSUBISHI,L200,18.99,117000,2.4,Metropolitana,2018,diesel,automatico
+FORD,EXPLORER,28.97,53953,2.3,Metropolitana,2020,gasolina,automatico
+VOLKSWAGEN,TIGUAN,15.1,95541,2.0,Metropolitana,2018,gasolina,automatico
+MITSUBISHI,L200,18.99,117000,2.4,Metropolitana,2018,diesel,automatico
+KIA,CARENS,11.3,92000,,Metropolitana,2018,diesel,mecanico
+PEUGEOT,208,13.97,50788,1.2,Metropolitana,2021,gasolina,automatico
+VOLVO,V60CC,12.98,100800,2.4,Metropolitana,2017,diesel,automatico
+SUBARU,FORESTER,25.98,36805,2.5,Metropolitana,2022,gasolina,automatico
+LAND ROVER,DISCOVERY,32.98,53408,3.0,Metropolitana,2018,gasolina,automatico
+MAZDA,CX-5,10.98,125600,2.0,Metropolitana,2014,gasolina,automatico
+RENAULT,SYMBOL,7.48,44000,1.6,Metropolitana,2021,gasolina,mecanico
+AUDI,A4,22.5,66000,2.0,Metropolitana,2018,diesel,automatico
+GREAT WALL,H3,9.49,83000,2.0,Metropolitana,2020,gasolina,mecanico
+M. BENZ,C300,38.99,30000,,Biobío,2022,gasolina,automatico
+GREAT WALL,POER,22.99,11000,2.0,Biobío,2023,diesel,automatico
+CHEVROLET,GROOVE,11.7,16000,1.5,Metropolitana,2022,gasolina,mecanico
+FIAT,UNO,7.48,64000,1.4,Metropolitana,2021,gasolina,mecanico
+BMW,X1,17.49,81000,2.0,Metropolitana,2018,gasolina,automatico
+NISSAN,NAVARA,17.99,73000,,Metropolitana,2021,diesel,mecanico
+KIA,SORENTO,20.29,120000,2.2,Metropolitana,2020,diesel,automatico
+SUBARU,OUTBACK,16.3,129816,2.5,Metropolitana,2019,gasolina,automatico
+KIA,SPORTAGE,12.99,75000,2.0,Biobío,2018,gasolina,mecanico
+MAZDA,CX5,11.79,142000,2.0,Biobío,2015,gasolina,mecanico
+JAGUAR,XE,18.99,92000,2.5,Biobío,2019,gasolina,automatico
+JEEP,GRAND CHEROKEE,17.99,126000,3.6,Biobío,2019,gasolina,automatico
+FORD,ESCAPE,4.49,140000,3.0,Ñuble,2004,gasolina,automatico
+CHEVROLET,SILVERADO,34.99,41000,5.3,Biobío,2021,gasolina,automatico
+DODGE,RAM 1500,19.99,148000,5.7,La Araucanía,2017,gasolina,automatico
+SUZUKI,BALENO,8.6,83139,1.4,Metropolitana,2018,gasolina,automatico
+BMW,320I,15.99,94000,2.0,Biobío,2016,gasolina,automatico
+KIA,KOUP,7.99,139000,2.0,Metropolitana,2015,gasolina,mecanico
+AUDI,A3,13.3,90673,1.4,Metropolitana,2018,gasolina,automatico
+VOLKSWAGEN,TIGUAN,14.79,73000,1.4,Metropolitana,2019,gasolina,automatico
+JAGUAR,XE,18.99,92000,2.5,Biobío,2019,gasolina,automatico
+GREAT WALL,POER,22.99,11000,2.0,Biobío,2023,diesel,automatico
+FORD,EXPLORER,28.97,53953,2.3,Metropolitana,2020,gasolina,automatico
+NISSAN,NAVARA,17.99,73000,,Metropolitana,2021,diesel,mecanico
+CHANGAN,CS35,8.99,52000,1.6,Metropolitana,2020,gasolina,mecanico
+MAZDA,MAZDA3,11.99,61000,2.0,Metropolitana,2019,gasolina,mecanico
+BMW,220,19.99,82000,,Metropolitana,2018,gasolina,automatico
+KIA,RIO,7.99,106000,,Metropolitana,2017,gasolina,mecanico
+MG,3,7.99,24000,,Metropolitana,2020,gasolina,automatico
+VOLKSWAGEN,TIGUAN,15.1,95541,2.0,Metropolitana,2018,gasolina,automatico
+FORD,FUSION,10.49,74000,,Metropolitana,2015,gasolina,automatico
+MITSUBISHI,L200,18.99,117000,2.4,Metropolitana,2018,diesel,automatico
+VOLVO,S60,15.6,103000,2.0,Metropolitana,2019,diesel,automatico
+LAND ROVER,DISCOVERY,32.98,53408,3.0,Metropolitana,2018,gasolina,automatico
+VOLKSWAGEN,TIGUAN,14.79,73000,1.4,Metropolitana,2019,gasolina,automatico
+HYUNDAI,TUCSON,10.99,150000,2.0,Los Lagos,2016,gasolina,automatico
+SUZUKI,CELERIO,6.49,96000,1.0,Los Lagos,2021,gasolina,mecanico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+JAC,S2,8.49,33000,1.5,O’Higgins,2023,gasolina,mecanico
+RAM,1500,30.49,29000,3.6,Los Lagos,2021,gasolina,automatico
+VOLKSWAGEN,TIGUAN,14.79,73000,1.4,Metropolitana,2019,gasolina,automatico
+CHEVROLET,GROOVE,10.99,57000,1.5,Los Lagos,2021,gasolina,mecanico
+KIA,SELTOS,14.5,49000,1.6,Los Lagos,2020,gasolina,mecanico
+MAZDA,CX-5,10.98,125600,2.0,Metropolitana,2014,gasolina,automatico
+SSANGYONG,GRAND MUSSO,14.49,85000,1.6,O’Higgins,2022,diesel,mecanico
+CITROEN,C5,15.89,62000,1.5,Metropolitana,2021,diesel,automatico
+SUZUKI,JIMNY,15.39,31000,1.5,Metropolitana,2022,gasolina,mecanico
+GREAT WALL,POER,14.59,66000,2.0,Metropolitana,2022,diesel,mecanico
+DONGFENG,T5 EVO,15.49,21000,1.5,Metropolitana,2023,gasolina,automatico
+CHERY,TIGGO 2,8.99,17000,1.5,Metropolitana,2023,gasolina,mecanico
+PEUGEOT,RIFTER,17.89,51000,1.5,Metropolitana,2022,diesel,automatico
+CHANGAN,CS35,8.99,52000,1.6,Metropolitana,2020,gasolina,mecanico
+BMW,118,18.69,66500,1.5,Metropolitana,2020,gasolina,automatico
+MAXUS,T60,10.0,143000,2.8,Metropolitana,2020,diesel,mecanico
+MG,HS,14.79,21430,2.0,Valparaíso,2022,gasolina,automatico
+MAZDA,BT-50,30.99,6000,3.0,Valparaíso,2023,diesel,automatico
+AUDI,A4,22.5,66000,2.0,Metropolitana,2018,diesel,automatico
+NISSAN,QASHQAI,7.999,89600,2.0,Metropolitana,2014,gasolina,automatico
+RENAULT,SYMBOL,7.48,44000,1.6,Metropolitana,2021,gasolina,mecanico
+HYUNDAI,TUCSON,10.19,145900,,Metropolitana,2012,diesel,automatico
+JEEP,COMPASS,1.55,78000,2.4,Coquimbo,2019,gasolina,mecanico
+M. BENZ,C300,38.99,30000,,Biobío,2022,gasolina,automatico
+TOYOTA,COROLLA,21.8,40500,1.8,Coquimbo,2022,diesel,automatico
+HYUNDAI,CRETA,10.8,51000,1.6,Coquimbo,2016,gasolina,mecanico
+FORD,EDGE,14.8,97400,3.5,Coquimbo,2017,gasolina,automatico
+JAC,JS3,9.47,43784,1.6,Metropolitana,2022,gasolina,automatico
+NISSAN,NAVARA,21.99,72000,2.3,Biobío,2022,diesel,mecanico
+MAZDA,CX-3,13.99,42000,2.0,Metropolitana,2019,gasolina,automatico
+CHEVROLET,GROOVE,11.7,16000,1.5,Metropolitana,2022,gasolina,mecanico
+KIA,SORENTO,20.29,120000,2.2,Metropolitana,2020,diesel,automatico
+SUBARU,OUTBACK,16.3,129816,2.5,Metropolitana,2019,gasolina,automatico
+KIA,SPORTAGE,12.99,75000,2.0,Biobío,2018,gasolina,mecanico
+MAZDA,CX5,11.79,142000,2.0,Biobío,2015,gasolina,mecanico
+JEEP,GRAND CHEROKEE,17.99,126000,3.6,Biobío,2019,gasolina,automatico
+FORD,ESCAPE,4.49,140000,3.0,Ñuble,2004,gasolina,automatico
+CHEVROLET,SILVERADO,34.99,41000,5.3,Biobío,2021,gasolina,automatico
+DODGE,RAM 1500,19.99,148000,5.7,La Araucanía,2017,gasolina,automatico
+SUZUKI,BALENO,8.6,83139,1.4,Metropolitana,2018,gasolina,automatico
+BMW,320I,15.99,94000,2.0,Biobío,2016,gasolina,automatico
+JAC,JS3,9.47,43784,1.6,Metropolitana,2022,gasolina,automatico
+NISSAN,NAVARA,21.99,72000,2.3,Biobío,2022,diesel,mecanico
+M. BENZ,C,28.9,51000,3.0,Biobío,2017,gasolina,automatico
+SUZUKI,DZIRE,7.98,55000,1.2,Metropolitana,2022,gasolina,mecanico
+FORD,Ranger Raptor,33.99,88000,2.0,Biobío,2021,gasolina,automatico
+FORD,F-150,21.99,74000,3.3,Biobío,2019,gasolina,automatico
+JAGUAR,XE,18.99,92000,2.5,Biobío,2019,gasolina,automatico
+AUDI,A3,13.3,90673,1.4,Metropolitana,2018,gasolina,automatico
+AUDI,S4,22.99,75000,3.0,Biobío,2013,gasolina,automatico
+GREAT WALL,POER,22.99,11000,2.0,Biobío,2023,diesel,automatico
+PEUGEOT,301,9.59,78000,1.6,Metropolitana,2021,diesel,mecanico
+HONDA,PILOT,28.99,82000,3.5,Metropolitana,2020,gasolina,automatico
+TOYOTA,RAV4,10.59,170000,2.0,Metropolitana,2018,gasolina,automatico
+JAC,S2,6.99,75000,1.5,Metropolitana,2019,gasolina,mecanico
+PEUGEOT,2008,10.39,63000,1.6,Metropolitana,2019,diesel,mecanico
+MAZDA,MAZDA3,11.99,61000,2.0,Metropolitana,2019,gasolina,mecanico
+BMW,220,19.99,82000,,Metropolitana,2018,gasolina,automatico
+JAC,JS3,9.47,43784,1.6,Metropolitana,2022,gasolina,automatico
+NISSAN,NAVARA,21.99,72000,2.3,Biobío,2022,diesel,mecanico
+VOLKSWAGEN,GOLF,9.97,84657,1.6,Metropolitana,2017,,
+KIA,RIO,7.99,106000,,Metropolitana,2017,gasolina,mecanico
+FORD,FUSION,10.49,74000,,Metropolitana,2015,gasolina,automatico
+NISSAN,VERSA,10.99,52000,1.6,La Araucanía,2020,gasolina,automatico
+PEUGEOT,208,13.97,50788,1.2,Metropolitana,2021,gasolina,automatico
+MITSUBISHI,L200,18.99,117000,2.4,Metropolitana,2018,diesel,automatico
+HONDA,PILOT,28.99,82000,3.5,Metropolitana,2020,gasolina,automatico
+VOLVO,S60,15.6,103000,2.0,Metropolitana,2019,diesel,automatico
+SUBARU,FORESTER,9.89,99000,2.5,Metropolitana,2013,gasolina,automatico
+JAC,JS3,9.47,43784,1.6,Metropolitana,2022,gasolina,automatico
+NISSAN,NAVARA,21.99,72000,2.3,Biobío,2022,diesel,mecanico
+HUMMER,H3,14.78,112544,3.5,Metropolitana,2008,gasolina,automatico
+NISSAN,SENTRA,11.49,53709,2.0,Metropolitana,2019,gasolina,mecanico
+VOLVO,XC70,9.99,241307,2.4,Metropolitana,2013,diesel,automatico
+FORD,ECOSPORT,11.29,65846,1.5,Metropolitana,2021,gasolina,automatico
+LAND ROVER,DISCOVERY,32.98,53408,3.0,Metropolitana,2018,gasolina,automatico
+LAND ROVER,RANGE ROVER VELAR,34.99,71000,2.0,Los Lagos,2019,gasolina,automatico
+HYUNDAI,TUCSON,10.99,150000,2.0,Los Lagos,2016,gasolina,automatico
+HYUNDAI,TUCSON,7.99,85000,2.0,Metropolitana,2014,gasolina,automatico
+SUZUKI,CELERIO,6.49,96000,1.0,Los Lagos,2021,gasolina,mecanico
+MAZDA,CX-3,13.5,70000,,Metropolitana,2019,gasolina,mecanico
+CHEVROLET,GROOVE,10.99,57000,1.5,Los Lagos,2021,gasolina,mecanico
+KIA,SELTOS,14.5,49000,1.6,Los Lagos,2020,gasolina,mecanico
+JAC,JS3,9.47,43784,1.6,Metropolitana,2022,gasolina,automatico
+NISSAN,NAVARA,21.99,72000,2.3,Biobío,2022,diesel,mecanico
+MAZDA,CX-5,10.98,125600,2.0,Metropolitana,2014,gasolina,automatico
+GREAT WALL,POER,14.59,66000,2.0,Metropolitana,2022,diesel,mecanico
+CHERY,TIGGO 2,8.99,17000,1.5,Metropolitana,2023,gasolina,mecanico
+CHANGAN,CS35,8.99,52000,1.6,Metropolitana,2020,gasolina,mecanico
+MAXUS,T60,10.0,143000,2.8,Metropolitana,2020,diesel,mecanico
+SUBARU,OUTBACK,14.5,83345,2.5,Metropolitana,2016,gasolina,automatico
+JAC,JS3,9.47,43784,1.6,Metropolitana,2022,gasolina,automatico
+NISSAN,NAVARA,21.99,72000,2.3,Biobío,2022,diesel,mecanico
+SSANGYONG,GRAND MUSSO,14.49,85000,1.6,O’Higgins,2022,diesel,mecanico
+PEUGEOT,308,7.89,159000,1.2,Valparaíso,2017,gasolina,mecanico
+RENAULT,OROCH,10.99,79000,2.0,Valparaíso,2020,gasolina,mecanico
+JAC,S2,8.49,33000,1.5,O’Higgins,2023,gasolina,mecanico
+FORD,ESCAPE,15.29,75000,2.0,Valparaíso,2020,gasolina,automatico
+TOYOTA,4RUNNER,20.99,92800,4.0,Metropolitana,2017,gasolina,automatico
+FORD,RANGER,12.99,266413,3.2,Valparaíso,2013,diesel,mecanico
+MG,HS,14.79,21430,2.0,Valparaíso,2022,gasolina,automatico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+TOYOTA,COROLLA,4.2,148000,1.6,Metropolitana,2014,gasolina,mecanico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+RENAULT,SYMBOL,7.48,44000,1.6,Metropolitana,2021,gasolina,mecanico
+NISSAN,QASHQAI,7.999,89600,2.0,Metropolitana,2014,gasolina,automatico
+HYUNDAI,TUCSON,10.19,145900,,Metropolitana,2012,diesel,automatico
+KIA,CARENS,11.3,92000,,Metropolitana,2018,diesel,mecanico
+RAM,1000,14.99,132000,1.8,Biobío,2020,gasolina,automatico
+KIA,SPORTAGE,8.78,88600,2.0,Metropolitana,2015,gasolina,mecanico
+HYUNDAI,GRAND SANTA FE,16.99,87000,3.3,Metropolitana,2016,gasolina,automatico
+FORD,EDGE,14.8,97400,3.5,Coquimbo,2017,gasolina,automatico
+TOYOTA,RAV4,19.8,36000,2.0,Coquimbo,2022,gasolina,mecanico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+BMW,X1,17.49,81000,2.0,Metropolitana,2018,gasolina,automatico
+TOYOTA,COROLLA,17.99,17000,2.0,Metropolitana,2023,gasolina,automatico
+SUBARU,XV,15.69,66000,2.0,Metropolitana,2018,gasolina,automatico
+KIA,FRONTIER,24.98,3000,2.5,Metropolitana,2024,diesel,mecanico
+KIA,SORENTO,20.29,120000,2.2,Metropolitana,2020,diesel,automatico
+SUBARU,OUTBACK,16.3,129816,2.5,Metropolitana,2019,gasolina,automatico
+VOLKSWAGEN,AMAROK,14.99,185000,2.0,La Araucanía,2017,diesel,automatico
+FORD,ESCAPE,13.49,78000,1.5,Biobío,2019,gasolina,mecanico
+MITSUBISHI,L-200,27.99,40000,2.4,Metropolitana,2023,diesel,automatico
+M. BENZ,A200,23.99,67000,2.0,Biobío,2020,diesel,automatico
+SUBARU,OUTBACK,27.89,56500,2.5,Metropolitana,2022,gasolina,automatico
+KIA,SPORTAGE,12.99,75000,2.0,Biobío,2018,gasolina,mecanico
+FORD,ESCAPE,9.77,92993,2.5,Metropolitana,2017,gasolina,automatico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+JEEP,GRAND CHEROKEE,17.99,126000,3.6,Biobío,2019,gasolina,automatico
+FORD,ESCAPE,4.49,140000,3.0,Ñuble,2004,gasolina,automatico
+CHEVROLET,SILVERADO,34.99,41000,5.3,Biobío,2021,gasolina,automatico
+DODGE,RAM 1500,19.99,148000,5.7,La Araucanía,2017,gasolina,automatico
+SUZUKI,BALENO,8.6,83139,1.4,Metropolitana,2018,gasolina,automatico
+RAM,RAM,32.99,21400,,Metropolitana,2023,gasolina,automatico
+BMW,320I,15.99,94000,2.0,Biobío,2016,gasolina,automatico
+LAND ROVER,RANGE ROVER EVOQUE,18.49,134000,2.0,Biobío,2014,gasolina,automatico
+RAM,1000,14.99,132000,1.8,Biobío,2020,gasolina,automatico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+FORD,ESCAPE,13.49,78000,1.5,Biobío,2019,gasolina,mecanico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+BMW,X3,14.59,151913,3.0,Metropolitana,2015,gasolina,automatico
+PEUGEOT,308,16.24,14000,1.2,Biobío,2024,gasolina,mecanico
+M. BENZ,C,28.9,51000,3.0,Biobío,2017,gasolina,automatico
+MG,ZS,8.49,13000,1.5,Biobío,2023,gasolina,mecanico
+SUZUKI,DZIRE,7.98,55000,1.2,Metropolitana,2022,gasolina,mecanico
+FORD,Ranger Raptor,33.99,88000,2.0,Biobío,2021,gasolina,automatico
+JAGUAR,XE,18.99,92000,2.5,Biobío,2019,gasolina,automatico
+AUDI,S4,22.99,75000,3.0,Biobío,2013,gasolina,automatico
+PEUGEOT,208,8.49,60100,1.2,Metropolitana,2019,gasolina,mecanico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+LEXUS,NX,19.48,134000,2.0,Metropolitana,2017,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+HYUNDAI,VELOSTER,13.89,75000,2.0,Valparaíso,2019,gasolina,mecanico
+KIA,RIO 4,8.59,50000,1.4,Metropolitana,2020,gasolina,mecanico
+TOYOTA,RAV4,10.59,170000,2.0,Metropolitana,2018,gasolina,automatico
+JAC,S2,6.99,75000,1.5,Metropolitana,2019,gasolina,mecanico
+BMW,320,39.9,16000,2.0,Metropolitana,2023,diesel,automatico
+MAZDA,MAZDA3,11.99,61000,2.0,Metropolitana,2019,gasolina,mecanico
+BMW,220,19.99,82000,,Metropolitana,2018,gasolina,automatico
+VOLKSWAGEN,TIGUAN,15.1,95541,2.0,Metropolitana,2018,gasolina,automatico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+BMW,X3,14.59,151913,3.0,Metropolitana,2015,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+MG,3,7.99,24000,,Metropolitana,2020,gasolina,automatico
+MINI,F56,12.9,94183,1.5,Metropolitana,2015,gasolina,automatico
+SSANGYONG,REXTON,15.49,125000,2.2,Valparaíso,2019,diesel,automatico
+FORD,FOCUS,11.49,69000,2.0,Metropolitana,2019,gasolina,automatico
+VOLVO,V60CC,12.98,100800,2.4,Metropolitana,2017,diesel,automatico
+PEUGEOT,208,13.97,50788,1.2,Metropolitana,2021,gasolina,automatico
+AUDI,A3,13.3,90673,1.4,Metropolitana,2018,gasolina,automatico
+HONDA,PILOT,28.99,82000,3.5,Metropolitana,2020,gasolina,automatico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+VOLVO,S60,15.6,103000,2.0,Metropolitana,2019,diesel,automatico
+CHEVROLET,SILVERADO,33.48,86920,5.3,Metropolitana,2021,gasolina,automatico
+NISSAN,SENTRA,11.49,53709,2.0,Metropolitana,2019,gasolina,mecanico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+VOLKSWAGEN,BORA,4.99,123180,2.0,Biobío,2011,gasolina,automatico
+CHERY,TIGGO 7 PRO,13.99,20000,1.5,Biobío,2023,gasolina,automatico
+PEUGEOT,301,8.99,131535,1.6,Biobío,2021,diesel,mecanico
+HONDA,CIVIC,14.49,105000,1.8,Metropolitana,2016,gasolina,automatico
+JEEP,GRAND CHEROKEE,9.99,194395,3.6,Biobío,2014,gasolina,automatico
+VOLVO,XC70,9.99,241307,2.4,Metropolitana,2013,diesel,automatico
+FORD,ECOSPORT,11.29,65846,1.5,Metropolitana,2021,gasolina,automatico
+LAND ROVER,DISCOVERY,32.98,53408,3.0,Metropolitana,2018,gasolina,automatico
+LAND ROVER,RANGE ROVER VELAR,34.99,71000,2.0,Los Lagos,2019,gasolina,automatico
+HYUNDAI,TUCSON,10.99,150000,2.0,Los Lagos,2016,gasolina,automatico
+HYUNDAI,TUCSON,7.99,85000,2.0,Metropolitana,2014,gasolina,automatico
+SUZUKI,CELERIO,6.49,96000,1.0,Los Lagos,2021,gasolina,mecanico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+CHEVROLET,CRUZE,5.78,150000,2.0,Valparaíso,2013,diesel,mecanico
+MAZDA,CX-3,13.5,70000,,Metropolitana,2019,gasolina,mecanico
+VOLVO,S60,7.8,184500,,Los Lagos,2013,diesel,automatico
+CHEVROLET,GROOVE,10.99,57000,1.5,Los Lagos,2021,gasolina,mecanico
+FORD,F-150,24.99,185000,5.0,La Araucanía,2018,gasolina,automatico
+FORD,EDGE,16.99,67000,2.0,La Araucanía,2019,gasolina,automatico
+KIA,SELTOS,14.5,49000,1.6,Los Lagos,2020,gasolina,mecanico
+CHEVROLET,SPARK,7.25,82000,1.2,Metropolitana,2021,gasolina,mecanico
+KIA,RIO 4,7.78,117000,1.4,Metropolitana,2017,gasolina,mecanico
+RENAULT,OROCH,5.35,148000,1.6,Valparaíso,2018,gasolina,mecanico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+PEUGEOT,PARTNER,9.65,100000,1.6,Metropolitana,2020,diesel,mecanico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+SUZUKI,SWIFT,15.0,39000,1.4,Coquimbo,2022,gasolina,automatico
+OPEL,MOKKA,17.99,53000,1.5,La Araucanía,2023,diesel,mecanico
+GREAT WALL,POER,14.59,66000,2.0,Metropolitana,2022,diesel,mecanico
+MITSUBISHI,OUTLANDER,4.98,136000,,Metropolitana,2005,gasolina,automatico
+PEUGEOT,RIFTER,17.89,51000,1.5,Metropolitana,2022,diesel,automatico
+TOYOTA,RAV4,9.98,110000,,Metropolitana,2014,gasolina,automatico
+AUDI,A5,15.98,80700,,Metropolitana,2014,gasolina,automatico
+CHERY,TIGGO 2,8.99,17000,1.5,Metropolitana,2023,gasolina,mecanico
+CHANGAN,CS35,8.99,52000,1.6,Metropolitana,2020,gasolina,mecanico
+MAXUS,T60,10.0,143000,2.8,Metropolitana,2020,diesel,mecanico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+JAC,JS3,9.47,43784,1.6,Metropolitana,2022,gasolina,automatico
+NISSAN,NAVARA,21.99,72000,2.3,Biobío,2022,diesel,mecanico
+JEEP,GRAND CHEROKEE,26.99,140000,3.0,Biobío,2019,diesel,automatico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+M. BENZ,C300,28.5,61900,2.0,Metropolitana,2017,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+SSANGYONG,GRAND MUSSO,14.49,85000,1.6,O’Higgins,2022,diesel,mecanico
+RENAULT,OROCH,10.99,79000,2.0,Valparaíso,2020,gasolina,mecanico
+KIA,GRAND CARNIVAL,9.59,201947,2.2,Metropolitana,2015,diesel,automatico
+NISSAN,NAVARA,18.59,96000,2.5,O’Higgins,2021,diesel,mecanico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+NISSAN,X-TRAIL,13.19,84000,2.5,Metropolitana,2021,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+OPEL,GRANDLAND,13.99,37600,1.6,Metropolitana,2019,gasolina,automatico
+SKODA,FABIA,13.68,70086,1.0,Metropolitana,2021,gasolina,automatico
+LAND ROVER,DISCOVERY,24.9,109000,2.0,Metropolitana,2018,gasolina,automatico
+BMW,Q7,14.99,110000,,Biobío,2014,gasolina,mecanico
+M. BENZ,A200,21.5,62700,1.3,Metropolitana,2019,gasolina,automatico
+HYUNDAI,ELANTRA,13.48,65000,2.0,Metropolitana,2022,gasolina,mecanico
+AUDI,Q5,36.97,16509,2.0,Metropolitana,2021,gasolina,automatico
+NISSAN,X-TRAIL,13.19,84000,2.5,Metropolitana,2021,gasolina,automatico
+FORD,EXPLORER,21.79,46000,3.5,Antofagasta,2018,gasolina,automatico
+VOLVO,C30,6.79,122429,2.0,Metropolitana,2012,gasolina,mecanico
+CITROEN,BERLINGO,10.99,99000,1.5,La Araucanía,2021,diesel,mecanico
+JEEP,GRAND CHEROKEE,12.99,125000,3.6,La Araucanía,2014,gasolina,automatico
+M. BENZ,A200,13.99,97000,1.6,La Araucanía,2016,gasolina,mecanico
+OPEL,MOKKA,17.99,53000,1.5,La Araucanía,2023,diesel,mecanico
+TOYOTA,TUNDRA,14.99,115000,5.7,Antofagasta,2013,gasolina,automatico
+CHEVROLET,CAPTIVA,14.69,21000,1.5,Antofagasta,2021,gasolina,automatico
+FORD,RANGER,12.99,266413,3.2,Valparaíso,2013,diesel,mecanico
+VOLKSWAGEN,TIGUAN,7.99,157000,1.4,Antofagasta,2014,gasolina,mecanico
+FORD,EXPLORER,14.99,82000,2.0,Metropolitana,2015,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+NISSAN,TERRANO,5.2,181000,2.5,Metropolitana,2005,diesel,mecanico
+M. BENZ,A200,11.99,81000,1.6,Biobío,2015,gasolina,mecanico
+M. BENZ,SPRINTER,33.5,145000,3.2,Metropolitana,2018,diesel,mecanico
+AUDI,A4,22.5,66000,2.0,Metropolitana,2018,diesel,automatico
+RENAULT,SYMBOL,7.48,44000,1.6,Metropolitana,2021,gasolina,mecanico
+CHEVROLET,ONIX,9.99,92321,1.4,O’Higgins,2020,gasolina,mecanico
+VOLVO,C30,6.79,122429,2.0,Metropolitana,2012,gasolina,mecanico
+DONGFENG,AX7,6.99,53620,2.0,Metropolitana,2017,gasolina,mecanico
+BMW,X1,19.68,82000,2.0,Valparaíso,2019,diesel,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+HYUNDAI,TUCSON,10.19,145900,,Metropolitana,2012,diesel,automatico
+KIA,SPORTAGE,8.78,88600,2.0,Metropolitana,2015,gasolina,mecanico
+MITSUBISHI,OUTLANDER,17.28,37512,2.0,Metropolitana,2023,gasolina,mecanico
+MITSUBISHI,L-200,25.59,43997,2.2,Antofagasta,2023,diesel,mecanico
+FORD,EDGE,14.8,97400,3.5,Coquimbo,2017,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+SUBARU,XV,12.97,126000,2.0,Metropolitana,2017,gasolina,automatico
+BMW,X1,17.49,81000,2.0,Metropolitana,2018,gasolina,automatico
+FIAT,UNO,7.48,64000,1.4,Metropolitana,2021,gasolina,mecanico
+SUBARU,XV,15.69,66000,2.0,Metropolitana,2018,gasolina,automatico
+KIA,SORENTO,20.29,120000,2.2,Metropolitana,2020,diesel,automatico
+SUBARU,OUTBACK,16.3,129816,2.5,Metropolitana,2019,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+VOLKSWAGEN,AMAROK,14.99,185000,2.0,La Araucanía,2017,diesel,automatico
+MITSUBISHI,L-200,27.99,40000,2.4,Metropolitana,2023,diesel,automatico
+MG,3,8.29,17000,1.5,Metropolitana,2020,gasolina,automatico
+MAZDA,CX-3,12.49,109000,,Metropolitana,2017,,automatico
+SUBARU,OUTBACK,27.89,56500,2.5,Metropolitana,2022,gasolina,automatico
+FORD,EXPLORER,14.99,82000,2.0,Metropolitana,2015,gasolina,automatico
+KIA,SPORTAGE,12.99,75000,2.0,Biobío,2018,gasolina,mecanico
+M. BENZ,GLE,29.9,100000,3.0,Los Lagos,2016,gasolina,automatico
+AUDI,Q3,33.97,5795,1.4,Metropolitana,2024,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+DODGE,RAM 1500,14.99,230000,,Metropolitana,2013,gasolina,automatico
+JEEP,GRAND CHEROKEE,17.99,126000,3.6,Biobío,2019,gasolina,automatico
+BMW,X1,19.68,82000,2.0,Valparaíso,2019,diesel,automatico
+FORD,ESCAPE,4.49,140000,3.0,Ñuble,2004,gasolina,automatico
+CHEVROLET,SILVERADO,34.99,41000,5.3,Biobío,2021,gasolina,automatico
+CHEVROLET,ONIX,9.99,92321,1.4,O’Higgins,2020,gasolina,mecanico
+FORD,EXPLORER,19.99,82000,2.3,O’Higgins,2018,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+MAZDA,MAZDA3,12.98,69809,2.5,Metropolitana,2018,gasolina,automatico
+HYUNDAI,GRAND SANTA FE,16.99,87000,3.3,Metropolitana,2016,gasolina,automatico
+RAM,RAM,32.99,21400,,Metropolitana,2023,gasolina,automatico
+BMW,320I,15.99,94000,2.0,Biobío,2016,gasolina,automatico
+LAND ROVER,RANGE ROVER EVOQUE,18.49,134000,2.0,Biobío,2014,gasolina,automatico
+RAM,1000,14.99,132000,1.8,Biobío,2020,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+NISSAN,KICKS,10.49,90200,1.6,Biobío,2018,gasolina,mecanico
+M. BENZ,A200,23.99,67000,2.0,Biobío,2020,diesel,automatico
+VOLKSWAGEN,GOL,8.49,35000,1.6,Biobío,2022,gasolina,mecanico
+M. BENZ,A200,12.5,144000,1.6,Metropolitana,2014,gasolina,mecanico
+SUBARU,WRX,18.39,106000,2.0,Biobío,2016,gasolina,automatico
+PEUGEOT,308,16.24,14000,1.2,Biobío,2024,gasolina,mecanico
+M. BENZ,C,28.9,51000,3.0,Biobío,2017,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+MG,ZS,8.49,13000,1.5,Biobío,2023,gasolina,mecanico
+SUZUKI,DZIRE,7.98,55000,1.2,Metropolitana,2022,gasolina,mecanico
+FORD,Ranger Raptor,33.99,88000,2.0,Biobío,2021,gasolina,automatico
+VOLKSWAGEN,BORA,5.5,157000,2.0,Metropolitana,2014,gasolina,mecanico
+AUDI,S4,22.99,75000,3.0,Biobío,2013,gasolina,automatico
+PEUGEOT,208,8.49,60100,1.2,Metropolitana,2019,gasolina,mecanico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+M. BENZ,GLA,21.98,27600,1.6,Metropolitana,2021,gasolina,automatico
+PEUGEOT,301,9.59,78000,1.6,Metropolitana,2021,diesel,mecanico
+KIA,FRONTIER,24.98,3000,2.5,Metropolitana,2024,diesel,mecanico
+HYUNDAI,VELOSTER,13.89,75000,2.0,Valparaíso,2019,gasolina,mecanico
+KIA,RIO 4,8.59,50000,1.4,Metropolitana,2020,gasolina,mecanico
+TOYOTA,RAV4,10.59,170000,2.0,Metropolitana,2018,gasolina,automatico
+JAC,S2,6.99,75000,1.5,Metropolitana,2019,gasolina,mecanico
+BMW,320,39.9,16000,2.0,Metropolitana,2023,diesel,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+SUBARU,XV,13.29,84332,2.0,Metropolitana,2018,gasolina,automatico
+VOLKSWAGEN,TIGUAN,16.99,114000,2.0,Metropolitana,2019,diesel,automatico
+MAZDA,MAZDA3,11.99,61000,2.0,Metropolitana,2019,gasolina,mecanico
+BMW,218,12.99,79300,2.0,Metropolitana,2015,diesel,automatico
+TOYOTA,RAV4,19.99,19700,2.0,Metropolitana,2023,gasolina,mecanico
+TOYOTA,FORTUNER,20.99,61900,2.7,Metropolitana,2019,gasolina,automatico
+KIA,SONET,11.49,43500,1.5,Metropolitana,2021,gasolina,mecanico
+BMW,220,19.99,82000,,Metropolitana,2018,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+MG,3,7.99,24000,,Metropolitana,2020,gasolina,automatico
+MINI,F56,12.9,94183,1.5,Metropolitana,2015,gasolina,automatico
+SSANGYONG,REXTON,15.49,125000,2.2,Valparaíso,2019,diesel,automatico
+JAC,J4,7.99,1111,1.5,Metropolitana,2020,gasolina,mecanico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+PEUGEOT,3008,17.5,82216,1.5,Metropolitana,2021,diesel,automatico
+PEUGEOT,208,13.97,50788,1.2,Metropolitana,2021,gasolina,automatico
+AUDI,A3,13.3,90673,1.4,Metropolitana,2018,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+SUBARU,FORESTER,25.98,36805,2.5,Metropolitana,2022,gasolina,automatico
+MITSUBISHI,L200,18.99,117000,2.4,Metropolitana,2018,diesel,automatico
+CHEVROLET,SILVERADO,15.49,235000,5.3,Los Lagos,2014,gasolina,automatico
+CHEVROLET,TRACKER,9.99,55000,1.8,Antofagasta,2019,gasolina,mecanico
+TOYOTA,HILUX,14.5,69500,2.7,Metropolitana,2020,gasolina,mecanico
+SSANGYONG,ACTYON SPORT,7.99,111,2.2,Metropolitana,2017,diesel,mecanico
+VOLVO,S60,15.6,103000,2.0,Metropolitana,2019,diesel,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+BMW,X6,20.97,131000,3.0,Metropolitana,2011,gasolina,automatico
+NISSAN,PATHFINDER,13.3,170000,3.5,Metropolitana,2014,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+CITROEN,C3,13.45,20000,1.2,Metropolitana,2021,gasolina,automatico
+MINI,COOPER,29.47,8482,2.0,Metropolitana,2023,gasolina,automatico
+AUDI,Q3,33.0,28000,1.4,Metropolitana,2022,gasolina,automatico
+CHEVROLET,SAIL,6.99,41652,1.5,Metropolitana,2019,gasolina,mecanico
+SUBARU,LEGACY,4.99,215530,2.0,Biobío,2006,gasolina,automatico
+M. BENZ,GLA,26.99,59500,2.0,Metropolitana,2020,gasolina,automatico
+M. BENZ,GLC,28.89,49800,2.1,Metropolitana,2019,diesel,automatico
+PEUGEOT,LANDTREK,28.29,1700,2.2,Metropolitana,2024,diesel,automatico
+HAVAL ,H6,14.99,25000,2.0,Biobío,2022,gasolina,automatico
+PEUGEOT,301,8.99,131535,1.6,Biobío,2021,diesel,mecanico
+HONDA,CIVIC,14.49,105000,1.8,Metropolitana,2016,gasolina,automatico
+JEEP,GRAND CHEROKEE,9.99,194395,3.6,Biobío,2014,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+FORD,ECOSPORT,11.29,65846,1.5,Metropolitana,2021,gasolina,automatico
+LAND ROVER,RANGE ROVER VELAR,34.99,71000,2.0,Los Lagos,2019,gasolina,automatico
+CITROEN,C3,8.89,8000,1.2,Metropolitana,2023,gasolina,mecanico
+HYUNDAI,TUCSON,10.99,150000,2.0,Los Lagos,2016,gasolina,automatico
+HYUNDAI,TUCSON,7.99,85000,2.0,Metropolitana,2014,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+BMW,320,7.49,122609,2.0,Metropolitana,2010,gasolina,automatico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+MAZDA,CX-3,13.5,70000,,Metropolitana,2019,gasolina,mecanico
+VOLVO,S60,7.8,184500,,Los Lagos,2013,diesel,automatico
+CHEVROLET,PRISMA,7.99,68000,1.4,Maule,2020,gasolina,mecanico
+CHEVROLET,GROOVE,10.99,57000,1.5,Los Lagos,2021,gasolina,mecanico
+KIA,SELTOS,13.49,67000,1.6,Metropolitana,2021,gasolina,mecanico
+FORD,F-150,24.99,185000,5.0,La Araucanía,2018,gasolina,automatico
+FORD,EDGE,16.99,67000,2.0,La Araucanía,2019,gasolina,automatico
+KIA,RIO 4,7.78,117000,1.4,Metropolitana,2017,gasolina,mecanico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+MAHINDRA,PICK,9.5,150000,,Metropolitana,2016,diesel,mecanico
+KIA,SELTOS,13.49,67000,1.6,Metropolitana,2021,gasolina,mecanico
+PEUGEOT,208,4.79,151000,1.2,Metropolitana,2013,gasolina,mecanico
+SUZUKI,SWIFT,15.0,39000,1.4,Coquimbo,2022,gasolina,automatico
+KIA,SOLUTO,8.49,1111,1.4,Metropolitana,2021,gasolina,mecanico
+GREAT WALL,POER,14.59,66000,2.0,Metropolitana,2022,diesel,mecanico
+NISSAN,X-TRAIL,8.99,134100,2.5,Metropolitana,2015,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+CHERY,TIGGO 2,8.99,17000,1.5,Metropolitana,2023,gasolina,mecanico
+AUDI,A5,15.98,80700,,Metropolitana,2014,gasolina,automatico
+CHANGAN,CS35,8.99,52000,1.6,Metropolitana,2020,gasolina,mecanico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+RAM,VAN 700,8.59,29522,1.3,Metropolitana,2022,diesel,mecanico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+JAC,JS3,9.47,43784,1.6,Metropolitana,2022,gasolina,automatico
+CHEVROLET,CAPTIVA,11.49,120000,2.2,Metropolitana,2018,diesel,mecanico
+BMW,320,7.49,122609,2.0,Metropolitana,2010,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+NISSAN,NAVARA,8.19,107769,2.5,Metropolitana,2011,diesel,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+SSANGYONG,GRAND MUSSO,14.49,85000,1.6,O’Higgins,2022,diesel,mecanico
+JEEP,GRAND CHEROKEE,14.99,146000,3.6,Metropolitana,2016,gasolina,automatico
+RENAULT,OROCH,10.99,79000,2.0,Valparaíso,2020,gasolina,mecanico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+NISSAN,NAVARA,18.59,96000,2.5,O’Higgins,2021,diesel,mecanico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+AUDI,A3,0.75,145000,1.2,O’Higgins,2012,gasolina,automatico
+NISSAN,NAVARA,37.99,11000,2.3,Biobío,2024,diesel,automatico
+SKODA,FABIA,13.68,70086,1.0,Metropolitana,2021,gasolina,automatico
+LAND ROVER,DISCOVERY,24.9,109000,2.0,Metropolitana,2018,gasolina,automatico
+RAM,VAN 700,8.59,29522,1.3,Metropolitana,2022,diesel,mecanico
+M. BENZ,A200,21.5,62700,1.3,Metropolitana,2019,gasolina,automatico
+HYUNDAI,ELANTRA,13.48,65000,2.0,Metropolitana,2022,gasolina,mecanico
+AUDI,Q5,36.97,16509,2.0,Metropolitana,2021,gasolina,automatico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+FORD,Ranger Raptor,38.99,36000,2.0,La Araucanía,2021,diesel,automatico
+DODGE,DURANGO,16.0,118455,3.6,Metropolitana,2015,gasolina,automatico
+FORD,RANGER,9.99,228000,3.2,La Araucanía,2015,diesel,mecanico
+JAGUAR,XF,14.0,100000,,Metropolitana,2013,,automatico
+JEEP,CHEROKEE,13.99,83000,2.4,Metropolitana,2015,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+FIAT,500X,13.19,82000,1.4,Metropolitana,2019,gasolina,automatico
+SUBARU,OUTBACK,14.5,83345,2.5,Metropolitana,2016,gasolina,automatico
+VOLKSWAGEN,GOLF,20.99,68820,2.0,Metropolitana,2019,gasolina,automatico
+CITROEN,BERLINGO,10.99,99000,1.5,La Araucanía,2021,diesel,mecanico
+JEEP,GRAND CHEROKEE,12.99,125000,3.6,La Araucanía,2014,gasolina,automatico
+SUZUKI,BALENO,8.49,60492,1.4,Metropolitana,2020,gasolina,mecanico
+M. BENZ,A200,13.99,97000,1.6,La Araucanía,2016,gasolina,mecanico
+OPEL,MOKKA,17.99,53000,1.5,La Araucanía,2023,diesel,mecanico
+TOYOTA,TUNDRA,14.99,115000,5.7,Antofagasta,2013,gasolina,automatico
+CHEVROLET,CAPTIVA,14.69,21000,1.5,Antofagasta,2021,gasolina,automatico
+FORD,RANGER,12.99,266413,3.2,Valparaíso,2013,diesel,mecanico
+VOLKSWAGEN,TIGUAN,7.99,157000,1.4,Antofagasta,2014,gasolina,mecanico
+KIA,SPORTAGE,11.98,68000,2.0,Valparaíso,2017,gasolina,automatico
+VOLVO,S60,30.99,85000,2.0,La Araucanía,2021,gasolina,automatico
+TOYOTA,COROLLA,4.2,148000,1.6,Metropolitana,2014,gasolina,mecanico
+NISSAN,QASHQAI,9.89,105000,2.0,Valparaíso,2017,gasolina,mecanico
+NISSAN,TERRANO,5.2,181000,2.5,Metropolitana,2005,diesel,mecanico
+M. BENZ,A200,11.99,81000,1.6,Biobío,2015,gasolina,mecanico
+VOLVO,S60,30.99,85000,2.0,La Araucanía,2021,gasolina,automatico
+SUZUKI,BALENO,9.5,86000,1.4,Metropolitana,2021,gasolina,automatico
+MAXUS,G10,17.0,127000,1.9,Metropolitana,2020,diesel,mecanico
+RAM,1500,17.9,140000,3.6,O’Higgins,2014,hibrido,automatico
+SUBARU,XV,12.99,123000,2.0,Metropolitana,2018,gasolina,automatico
+VOLVO,S60,30.99,85000,2.0,La Araucanía,2021,gasolina,automatico
+VOLVO,XC60,10.19,108000,3.0,Metropolitana,2010,gasolina,automatico
+DONGFENG,AX7,6.99,53620,2.0,Metropolitana,2017,gasolina,mecanico
+SUZUKI,BALENO,9.5,86000,1.4,Metropolitana,2021,gasolina,automatico
+DODGE,DURANGO,16.0,118455,3.6,Metropolitana,2015,gasolina,automatico
+VOLVO,XC70,10.98,153000,2.5,Metropolitana,2014,diesel,automatico
+CHEVROLET,N400,8.79,34500,1.5,Metropolitana,2022,gasolina,mecanico
+NISSAN,X-TRAIL,17.99,28300,2.5,Metropolitana,2019,gasolina,automatico
+KIA,SPORTAGE,8.78,88600,2.0,Metropolitana,2015,gasolina,mecanico
+SUZUKI,BALENO,9.5,86000,1.4,Metropolitana,2021,gasolina,automatico
+DODGE,DURANGO,16.0,118455,3.6,Metropolitana,2015,gasolina,automatico
+MITSUBISHI,OUTLANDER,17.28,37512,2.0,Metropolitana,2023,gasolina,mecanico
+CHEVROLET,TRACKER,7.5,159000,1.8,Metropolitana,2015,gasolina,mecanico
+MITSUBISHI,L-200,25.59,43997,2.2,Antofagasta,2023,diesel,mecanico
+FORD,EDGE,14.8,97400,3.5,Coquimbo,2017,gasolina,automatico
+SUZUKI,BALENO,9.5,86000,1.4,Metropolitana,2021,gasolina,automatico
+DODGE,DURANGO,16.0,118455,3.6,Metropolitana,2015,gasolina,automatico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+M. BENZ,GLE,30.95,111000,3.0,Metropolitana,2016,gasolina,automatico
+MAZDA,CX5,20.8,10759,2.0,Antofagasta,2022,gasolina,automatico
+SUBARU,XV,12.97,126000,2.0,Metropolitana,2017,gasolina,automatico
+SUZUKI,BALENO,9.5,86000,1.4,Metropolitana,2021,gasolina,automatico
+DODGE,DURANGO,16.0,118455,3.6,Metropolitana,2015,gasolina,automatico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+SUBARU,XV,15.69,66000,2.0,Metropolitana,2018,gasolina,automatico
+DODGE,DURANGO,16.0,118455,3.6,Metropolitana,2015,gasolina,automatico
+KIA,SORENTO,20.29,120000,2.2,Metropolitana,2020,diesel,automatico
+KIA,MORNING,4.15,66800,,Metropolitana,2011,gasolina,mecanico
+SUBARU,OUTBACK,16.3,129816,2.5,Metropolitana,2019,gasolina,automatico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+DODGE,DURANGO,16.0,118455,3.6,Metropolitana,2015,gasolina,automatico
+BRILLIANCE,T50,6.9,4400,1.5,Metropolitana,2022,,
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+FORD,EXPLORER,14.99,82000,2.0,Metropolitana,2015,gasolina,automatico
+HONDA,CR-V,10.99,81500,2.4,Metropolitana,2014,gasolina,automatico
+CHEVROLET,TRACKER,7.5,159000,1.8,Metropolitana,2015,gasolina,mecanico
+NISSAN,X-TRAIL,10.99,90000,2.0,Metropolitana,2017,gasolina,automatico
+M. BENZ,GLE,29.9,100000,3.0,Los Lagos,2016,gasolina,automatico
+DODGE,DURANGO,16.0,118455,3.6,Metropolitana,2015,gasolina,automatico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+NISSAN,X-TRAIL,17.99,28300,2.5,Metropolitana,2019,gasolina,automatico
+VOLKSWAGEN,GOL,5.8,125002,1.6,Metropolitana,2016,gasolina,mecanico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+FORD,ESCAPE,4.49,140000,3.0,Ñuble,2004,gasolina,automatico
+CHEVROLET,SILVERADO,34.99,41000,5.3,Biobío,2021,gasolina,automatico
+CHEVROLET,ONIX,9.99,92321,1.4,O’Higgins,2020,gasolina,mecanico
+FORD,EXPLORER,19.99,82000,2.3,O’Higgins,2018,gasolina,automatico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+DODGE,DURANGO,16.0,118455,3.6,Metropolitana,2015,gasolina,automatico
+VOLKSWAGEN,VOYAGE,8.99,5500,1.6,Biobío,2022,gasolina,mecanico
+MAZDA,MAZDA3,12.98,69809,2.5,Metropolitana,2018,gasolina,automatico
+PEUGEOT,2008,8.5,97000,1.6,Valparaíso,2017,diesel,mecanico
+SUBARU,LEGACY,4.85,142300,2.0,Metropolitana,2007,gasolina,automatico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+MINI,COOPER,10.49,98000,1.6,Metropolitana,2011,gasolina,mecanico
+BMW,M550I,39.99,25000,4.4,Metropolitana,2019,gasolina,automatico
+AUDI,A3,20.99,70000,2.0,Metropolitana,2018,gasolina,automatico
+RAM,RAM,32.99,21400,,Metropolitana,2023,gasolina,automatico
+BMW,320I,15.99,94000,2.0,Biobío,2016,gasolina,automatico
+AUDI,A4,15.69,79000,1.4,Metropolitana,2018,gasolina,automatico
+LAND ROVER,RANGE ROVER EVOQUE,18.49,134000,2.0,Biobío,2014,gasolina,automatico
+DODGE,DURANGO,16.0,118455,3.6,Metropolitana,2015,gasolina,automatico
+RAM,1000,14.99,132000,1.8,Biobío,2020,gasolina,automatico
+GREAT WALL,POER,19.5,11000,2.0,Metropolitana,2022,diesel,
+CITROEN,C4,17.5,42000,1.5,O’Higgins,2022,diesel,automatico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+FIAT,500X,15.89,17000,1.4,Metropolitana,2019,gasolina,automatico
+TOYOTA,RAV,13.89,49000,2.0,Metropolitana,2017,gasolina,mecanico
+KIA,SPORTAGE,27.99,19000,1.6,Metropolitana,2022,gasolina,automatico
+MINI,COOPER,31.99,20000,2.0,Metropolitana,2019,gasolina,automatico
+HYUNDAI,CRETA,10.99,53000,1.6,Metropolitana,2017,gasolina,automatico
+M. BENZ,A200,23.99,67000,2.0,Biobío,2020,diesel,automatico
+CHEVROLET,CAPTIVA,5.88,222500,2.0,Metropolitana,2011,diesel,automatico
+PEUGEOT,308,21.5,17000,1.5,Biobío,2023,diesel,automatico
+TOYOTA,4RUNNER,19.85,200000,4.0,Metropolitana,2017,gasolina,automatico
+LAND ROVER,RANGE ROVER SPORT,16.9,221400,,Metropolitana,2013,diesel,
+SSANGYONG,REXTON,15.99,27000,2.0,Metropolitana,2020,gasolina,automatico
+OPEL,CORSA,4.69,132000,1.4,Metropolitana,2014,gasolina,mecanico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+CHEVROLET,SPARK,3.18,148000,1.0,Metropolitana,2011,gasolina,
+KIA,SORENTO,19.98,63000,2.2,Metropolitana,2019,gas,automatico
+BMW,118,13.49,138000,1.5,Metropolitana,2017,gasolina,automatico
+BMW,320,14.49,91000,1.6,Metropolitana,2015,gasolina,automatico
+CHEVROLET,TAHOE,29.49,79000,5.3,Metropolitana,2018,gasolina,automatico
+SUBARU,FORESTER,20.99,74000,2.5,Metropolitana,2020,gasolina,automatico
+PEUGEOT,308,16.24,14000,1.2,Biobío,2024,gasolina,mecanico
+M. BENZ,C,28.9,51000,3.0,Biobío,2017,gasolina,automatico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+SANGYONG,NEW REXTON,11.99,88000,2.2,Metropolitana,2017,gas,mecanico
+TOYOTA,FORTUNER,26.99,22000,2.7,Metropolitana,2021,gasolina,automatico
+KIA,SOLUTO,9.28,20000,,Metropolitana,2022,gasolina,mecanico
+SUZUKI,DZIRE,7.98,55000,1.2,Metropolitana,2022,gasolina,mecanico
+FORD,Ranger Raptor,33.99,88000,2.0,Biobío,2021,gasolina,automatico
+CHEVROLET,SILVERADO,35.78,106500,5.3,Metropolitana,2020,gasolina,automatico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+VOLKSWAGEN,GOLF,9.99,150000,1.6,O’Higgins,2015,gasolina,mecanico
+SSANGYONG,ACTYON,8.5,178000,,O’Higgins,2015,diesel,mecanico
+TOYOTA,COROLLA,17.99,17000,2.0,Metropolitana,2023,gasolina,automatico
+KIA,MORNING,5.98,55000,1.2,Metropolitana,2017,,
+MITSUBISHI,L-200,22.99,73000,2.4,Metropolitana,2019,gas,automatico
+VOLKSWAGEN,BORA,5.5,157000,2.0,Metropolitana,2014,gasolina,mecanico
+CHANGAN,HUNTER,16.99,30500,1.9,Metropolitana,2023,gas,mecanico
+MG,3,4.65,67000,1.5,Valparaíso,2019,gasolina,mecanico
+LAND ROVER,DISCOVERY,24.49,37000,2.0,Metropolitana,2019,gasolina,automatico
+AUDI,S4,22.99,75000,3.0,Biobío,2013,gasolina,automatico
+OPEL,CORSA,4.69,132000,1.4,Metropolitana,2014,gasolina,mecanico
+PEUGEOT,208,8.49,60100,1.2,Metropolitana,2019,gasolina,mecanico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+JETOUR,X70,10.99,20000,1.5,Metropolitana,2022,gasolina,mecanico
+DS,DS7,26.24,113000,1.6,Metropolitana,2019,gasolina,automatico
+VOLKSWAGEN,VOYAGE,8.9,14000,1.6,Metropolitana,2022,gasolina,mecanico
+LEXUS,NX,19.48,134000,2.0,Metropolitana,2017,gasolina,automatico
+KIA,MORNING,5.98,55000,1.2,Metropolitana,2017,,
+MAXUS,T60,21.5,40000,,Metropolitana,2022,,automatico
+DODGE,DURANGO,12.49,132000,3.6,Metropolitana,2014,gasolina,automatico
+AUDI,A6,16.49,110000,2.0,Metropolitana,2015,gas,automatico
+MITSUBISHI,L-200,18.49,65000,2.4,Metropolitana,2018,gas,automatico
+NISSAN,KICKS,12.99,20000,1.6,Metropolitana,2022,gasolina,mecanico
+KIA,FRONTIER,24.98,3000,2.5,Metropolitana,2024,diesel,mecanico
+FORD,FOCUS,5.49,152000,1.6,Metropolitana,2012,gasolina,mecanico
+PEUGEOT,508,15.499,84500,2.0,Metropolitana,2016,diesel,automatico
+M. BENZ,C200,24.99,87000,2.0,Metropolitana,2017,gasolina,automatico
+HYUNDAI,VELOSTER,15.49,26000,1.6,Metropolitana,2020,gasolina,automatico
+SUBARU,FORESTER,20.99,74000,2.5,Metropolitana,2020,gasolina,automatico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+PEUGEOT,3008,17.28,113200,2.0,Metropolitana,2018,gasolina,automatico
+AUDI,TT,18.5,61000,1.8,Metropolitana,2014,gasolina,automatico
+PEUGEOT,LANDTREK,21.99,22000,1.9,Biobío,2022,gasolina,mecanico
+FOTON,G7,16.5,14500,2.0,O’Higgins,2023,diesel,mecanico
+FORD,F-150,15.8,160000,5.0,O’Higgins,2015,gasolina,automatico
+CHEVROLET,SONIC,5.6,83000,,O’Higgins,2012,gasolina,mecanico
+CHANGAN,CS15,7.99,16000,1.5,Metropolitana,2022,gasolina,mecanico
+MINI,COOPER,10.49,98000,1.6,Metropolitana,2011,gasolina,mecanico
+TOYOTA,RAV4,10.59,170000,2.0,Metropolitana,2018,gasolina,automatico
+VOLKSWAGEN,GOL,7.99,25000,1.6,Biobío,2022,gasolina,mecanico
+M. BENZ,CLA,21.99,82000,2.1,Metropolitana,2016,diesel,automatico
+PORSCHE,CAYENNE,19.99,139000,3.6,Metropolitana,2012,gasolina,automatico
+SSANGYONG,MUSSO,17.99,90000,2.2,Metropolitana,2021,gas,automatico
+LAND ROVER,DISCOVERY,14.99,213000,3.7,Metropolitana,2011,gas,automatico
+JAC,S2,6.99,75000,1.5,Metropolitana,2019,gasolina,mecanico
+FORD,EXPLORER,28.97,53953,2.3,Metropolitana,2020,gasolina,automatico
+MINI,F56,12.99,107000,2.0,Metropolitana,2015,gasolina,automatico
+CHEVROLET,ONIX,7.39,48282,1.4,Metropolitana,2019,gasolina,mecanico
+BMW,320,39.9,16000,2.0,Metropolitana,2023,diesel,automatico
+JEEP,GRAND CHEROKEE,39.99,16000,2.0,Metropolitana,2020,gasolina,automatico
+SUZUKI,BALENO,7.99,70000,1.4,Metropolitana,2017,gasolina,mecanico
+JEEP,CHEROKEE,17.99,113000,3.2,Metropolitana,2016,gasolina,automatico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+PEUGEOT,308,13.59,50000,,Valparaíso,2019,,mecanico
+CHANGAN,CS35,6.5,90000,,Metropolitana,2016,gasolina,mecanico
+RENAULT,CLIO,15.5,12000,1.0,Metropolitana,2023,gasolina,mecanico
+BMW,740,35.99,100000,3.0,Metropolitana,2017,gasolina,automatico
+CITROEN,C4,22.99,17000,1.5,Metropolitana,2021,diesel,automatico
+PEUGEOT,508,15.499,84500,2.0,Metropolitana,2016,diesel,automatico
+GREAT WALL,POER,21.99,18000,2.0,Metropolitana,2022,gas,automatico
+CHEVROLET,CAPTIVA,12.99,61000,1.5,Metropolitana,2020,gasolina,mecanico
+FIAT,500X,15.89,17000,1.4,Metropolitana,2019,gasolina,automatico
+BMW,118,31.49,6000,2.0,Metropolitana,2023,gas,automatico
+VOLKSWAGEN,BORA,11.49,70000,2.0,Metropolitana,2017,gas,automatico
+VOLKSWAGEN,TIGUAN,16.99,114000,2.0,Metropolitana,2019,diesel,automatico
+MAZDA,MAZDA3,11.99,61000,2.0,Metropolitana,2019,gasolina,mecanico
+CHANGAN,HUNTER,16.99,30500,1.9,Metropolitana,2023,gas,mecanico
+BMW,218,12.99,79300,2.0,Metropolitana,2015,diesel,automatico
+M. BENZ,C,34.99,68000,3.0,Metropolitana,2017,gasolina,automatico
+SUZUKI,JIMNY,13.9,33548,1.5,Metropolitana,2022,gasolina,mecanico
+TOYOTA,RAV4,19.99,19700,2.0,Metropolitana,2023,gasolina,mecanico
+BMW,340,33.49,75000,3.0,Metropolitana,2018,gasolina,automatico
+AUDI,RS5,28.99,47000,4.0,Metropolitana,2014,gasolina,automatico
+TOYOTA,FORTUNER,20.99,61900,2.7,Metropolitana,2019,gasolina,automatico
+BMW,730,34.99,125000,3.0,Metropolitana,2019,gas,automatico
+KIA,SONET,11.49,43500,1.5,Metropolitana,2021,gasolina,mecanico
+SUZUKI,CELERIO,6.49,63000,1.0,Metropolitana,2020,gasolina,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+SUBARU,XV,7.89,195000,2.0,Metropolitana,2014,gasolina,automatico
+FIAT,UNO,6.5,85000,1.4,Los Lagos,2018,gasolina,mecanico
+FORD,MUSTANG,27.99,76000,5.0,Metropolitana,2018,gasolina,automatico
+TOYOTA,4RUNNER,11.99,139000,4.0,Metropolitana,2011,gasolina,automatico
+BMW,X1,21.99,60500,2.0,Metropolitana,2018,gasolina,automatico
+M. BENZ,A200,24.98,28000,1.4,Metropolitana,2020,gasolina,automatico
+FORD,F-150,39.99,52000,3.5,Metropolitana,2019,gasolina,automatico
+BMW,330,31.99,32000,2.0,Metropolitana,2019,gasolina,automatico
+VOLKSWAGEN,SAVEIRO,6.89,110000,1.6,Metropolitana,2018,gasolina,mecanico
+FORD,F-150,19.9,129800,3.5,Metropolitana,2014,gasolina,automatico
+BMW,220,19.99,82000,,Metropolitana,2018,gasolina,automatico
+BMW,318,7.49,128913,2.0,Metropolitana,2011,gasolina,automatico
+CHERY,TIGGO 2,10.49,17000,1.0,Biobío,2022,gasolina,automatico
+DFSK,580,10.9,40000,1.8,Los Lagos,2022,gasolina,mecanico
+CHEVROLET,SPARK,3.18,148000,1.0,Metropolitana,2011,gasolina,
+DS,DS7,26.24,113000,1.6,Metropolitana,2019,gasolina,automatico
+MAXUS,T60,13.98,108000,2.8,Metropolitana,2019,gas,automatico
+CHEVROLET,PRISMA,7.98,98000,1.4,Metropolitana,2020,,
+PEUGEOT,EXPERT,10.58,237000,2.0,Metropolitana,2017,gas,
+RENAULT,SYMBOL,6.98,84000,1.6,Metropolitana,2019,,
+HYUNDAI,SANTA FE,7.98,332000,2.2,Metropolitana,2012,gas,
+DODGE,JOURNEY,6.99,138000,2.7,Metropolitana,2011,gasolina,automatico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+HYUNDAI,SANTA FE,9.99,92000,2.4,Metropolitana,2013,gasolina,automatico
+AUDI,A4,9.49,134000,1.8,Metropolitana,2014,gasolina,automatico
+CITROEN,C3,6.49,93000,1.6,Metropolitana,2014,gasolina,automatico
+M. BENZ,E200,29.95,32000,2.0,Valparaíso,2018,gasolina,automatico
+BMW,X3,14.59,151913,3.0,Metropolitana,2015,gasolina,automatico
+JEEP,WRANGLER,16.95,119000,2.8,O’Higgins,2012,diesel,automatico
+KIA,SORENTO,21.25,54896,2.2,O’Higgins,2021,diesel,automatico
+KIA,RIO,7.99,106000,,Metropolitana,2017,gasolina,mecanico
+CHEVROLET,SPARK,7.55,17000,1.2,Metropolitana,2021,gasolina,mecanico
+VOLKSWAGEN,PASSAT,17.49,65000,2.0,Metropolitana,2018,gas,automatico
+VOLKSWAGEN,VOYAGE,8.9,14000,1.6,Metropolitana,2022,gasolina,mecanico
+PEUGEOT,3008,17.28,113200,2.0,Metropolitana,2018,gasolina,automatico
+SUBARU,LEGACY,9.99,137000,2.5,Metropolitana,2014,gasolina,automatico
+VOLKSWAGEN,AMAROK,24.99,23000,2.0,Metropolitana,2022,gas,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+FORD,EXPLORER,12.49,171000,3.5,Metropolitana,2014,gasolina,automatico
+OPEL,CORSA,12.19,100000,1.6,Metropolitana,2017,gasolina,mecanico
+CHEVROLET,CAPTIVA,8.99,124000,2.4,Metropolitana,2016,gasolina,automatico
+VOLKSWAGEN,AMAROK,7.99,211000,2.0,Metropolitana,2011,diesel,mecanico
+RENAULT,DUSTER,8.0,33000,1.6,Metropolitana,2017,gasolina,mecanico
+FIAT,500,7.49,71000,1.2,Metropolitana,2014,gasolina,mecanico
+CHEVROLET,PRISMA,6.99,118000,1.4,Metropolitana,2019,gasolina,mecanico
+KIA,SORENTO,29.99,8000,2.5,Metropolitana,2023,gasolina,automatico
+VOLKSWAGEN,TAOS,19.99,17000,1.4,Metropolitana,2022,gasolina,automatico
+MINI,F56,12.9,94183,1.5,Metropolitana,2015,gasolina,automatico
+BMW,120I,11.99,77000,1.6,Metropolitana,2016,gasolina,mecanico
+CHEVROLET,SILVERADO,27.99,69500,5.3,Metropolitana,2017,gasolina,automatico
+SSANGYONG,ACTYON,8.5,178000,,O’Higgins,2015,diesel,mecanico
+SSANGYONG,REXTON,15.49,125000,2.2,Valparaíso,2019,diesel,automatico
+FORD,F-150,15.8,160000,5.0,O’Higgins,2015,gasolina,automatico
+RENAULT,MEGANE,4.99,187000,2.0,O’Higgins,2012,gasolina,mecanico
+FOTON,G7,16.5,14500,2.0,O’Higgins,2023,diesel,mecanico
+KIA,SOLUTO,8.5,32000,1.4,O’Higgins,2021,gasolina,mecanico
+MG,MG3,8.2,22000,1.5,O’Higgins,2023,gasolina,mecanico
+VOLKSWAGEN,T-CROSS,13.99,24620,1.6,O’Higgins,2020,gasolina,mecanico
+M. BENZ,E,25.99,93000,3.0,Metropolitana,2015,gasolina,automatico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+VOLKSWAGEN,TIGUAN,15.79,98000,2.0,Metropolitana,2018,diesel,automatico
+MITSUBISHI,MONTERO,15.49,210000,3.2,Metropolitana,2014,diesel,automatico
+HYUNDAI,GENESIS,11.49,75000,3.3,Metropolitana,2012,gasolina,automatico
+CHEVROLET,TRACKER,9.99,93000,1.8,Metropolitana,2018,gasolina,automatico
+NISSAN,MURANO,9.49,117000,3.5,Metropolitana,2013,gasolina,automatico
+HYUNDAI,CRETA,8.99,97000,1.6,Metropolitana,2016,gasolina,mecanico
+FORD,FOCUS,11.49,69000,2.0,Metropolitana,2019,gasolina,automatico
+FORD,BRONCO,23.49,11000,1.5,Biobío,2023,gasolina,automatico
+TOYOTA,C-HR,22.49,34000,1.8,Biobío,2021,hibrido,automatico
+RENAULT,FLUENCE,6.49,97000,2.0,Metropolitana,2011,gasolina,automatico
+PEUGEOT,LANDTREK,21.99,22000,1.9,Biobío,2022,gasolina,mecanico
+MG,ZX,9.99,24000,1.5,Biobío,2022,gasolina,mecanico
+PEUGEOT,PARTNER,5.19,222000,1.6,Metropolitana,2014,gasolina,mecanico
+CHERY,TIGGO 2,10.49,17000,1.0,Biobío,2022,gasolina,automatico
+FORD,F-150,19.9,129800,3.5,Metropolitana,2014,gasolina,automatico
+FORD,FIESTA,5.49,143000,1.6,Metropolitana,2013,gasolina,mecanico
+M. BENZ,CLA,15.99,92300,1.6,Metropolitana,2015,gasolina,automatico
+DS,DS7,26.24,113000,1.6,Metropolitana,2019,gasolina,automatico
+CITROEN,C4,22.99,17000,1.5,Metropolitana,2021,diesel,automatico
+M. BENZ,CLA,24.99,25600,1.6,Metropolitana,2020,gasolina,automatico
+SUZUKI,GRAND VITARA,5.49,177000,1.6,Metropolitana,2009,gasolina,mecanico
+BMW,740,35.99,100000,3.0,Metropolitana,2017,gasolina,automatico
+AUDI,A3,16.8,57000,1.4,Metropolitana,2018,gasolina,automatico
+NISSAN,PATHFINDER,4.79,245000,3.5,Metropolitana,2003,gasolina,automatico
+BMW,X3,21.99,115000,2.0,Metropolitana,2017,gasolina,automatico
+PEUGEOT,3008,17.5,82216,1.5,Metropolitana,2021,diesel,automatico
+M. BENZ,C200,21.97,74500,,Metropolitana,2016,gasolina,automatico
+VOLKSWAGEN,BORA,4.99,170000,2.0,Metropolitana,2012,gasolina,automatico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+NISSAN,MURANO,26.99,57000,3.5,Metropolitana,2012,gasolina,automatico
+AUDI,Q7,14.79,89000,3.6,Metropolitana,2008,gasolina,automatico
+VOLVO,S60,12.99,112000,2.0,Metropolitana,2018,diesel,automatico
+SEAT,IBIZA,12.99,19000,1.6,Metropolitana,2022,gasolina,mecanico
+BMW,320I,11.99,60000,2.0,Metropolitana,2013,gasolina,automatico
+HYUNDAI,TUCSON,16.99,40000,2.0,Metropolitana,2020,gasolina,mecanico
+RENAULT,CLIO,15.5,12000,1.0,Metropolitana,2023,gasolina,mecanico
+JEEP,CHEROKEE,17.99,113000,3.2,Metropolitana,2016,gasolina,automatico
+M. BENZ,CLA,21.99,82000,2.1,Metropolitana,2016,diesel,automatico
+PEUGEOT,106,7.99,155000,1.4,Metropolitana,2003,gasolina,mecanico
+PEUGEOT,3008,17.28,90300,1.5,Metropolitana,2020,diesel,automatico
+AUDI,TT,18.5,61000,1.8,Metropolitana,2014,gasolina,automatico
+BMW,X1,21.99,60500,2.0,Metropolitana,2018,gasolina,automatico
+VOLKSWAGEN,VOYAGE,8.09,35000,1.6,Metropolitana,2021,gasolina,mecanico
+TOYOTA,4RUNNER,11.99,139000,4.0,Metropolitana,2011,gasolina,automatico
+VOLKSWAGEN,NIVUS,16.99,14800,1.0,Metropolitana,2022,gasolina,automatico
+AUDI,Q2,18.99,101000,1.4,Metropolitana,2018,gasolina,automatico
+MAZDA,BT-50,14.97,100235,3.2,Metropolitana,2019,diesel,automatico
+CHEVROLET,TRACKER,9.99,93000,1.8,Metropolitana,2018,gasolina,automatico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+VOLKSWAGEN,ATLAS,23.99,85000,3.6,Metropolitana,2018,gasolina,automatico
+MAZDA,BT-50,16.49,82000,2.2,Metropolitana,2020,diesel,mecanico
+TOYOTA,RAV4,15.99,62000,2.0,Metropolitana,2018,gasolina,mecanico
+TOYOTA,HILUX,15.49,133000,2.4,Metropolitana,2018,diesel,mecanico
+AUDI,A4,18.99,72600,1.4,Metropolitana,2018,gasolina,automatico
+SUBARU,XV,13.29,84332,2.0,Metropolitana,2018,gasolina,automatico
+CUPRA,FORMENTOR,27.49,7000,2.0,Metropolitana,2023,gasolina,automatico
+PEUGEOT,208,13.97,50788,1.2,Metropolitana,2021,gasolina,automatico
+FORD,MUSTANG,27.99,76000,5.0,Metropolitana,2018,gasolina,automatico
+RENAULT,MEGANE,29.49,28000,1.8,Metropolitana,2020,gasolina,automatico
+SUBARU,FORESTER,25.98,36805,2.5,Metropolitana,2022,gasolina,automatico
+ALFA ROMEO,GIULIA,33.99,45000,2.0,Metropolitana,2021,gasolina,automatico
+MITSUBISHI,L200,18.99,117000,2.4,Metropolitana,2018,diesel,automatico
+CHANGAN,CS35,6.5,90000,,Metropolitana,2016,gasolina,mecanico
+CHEVROLET,SILVERADO,15.49,235000,5.3,Los Lagos,2014,gasolina,automatico
+M. BENZ,E200,29.95,32000,2.0,Valparaíso,2018,gasolina,automatico
+VOLVO,V40,9.3,106000,1.6,Metropolitana,2014,gasolina,mecanico
+CHEVROLET,TRACKER,9.99,55000,1.8,Antofagasta,2019,gasolina,mecanico
+NISSAN,MURANO,22.99,39996,3.5,O’Higgins,2020,gasolina,automatico
+FORD,ECOSPORT,10.49,42672,1.5,O’Higgins,2021,diesel,mecanico
+FORD,EXPLORER,12.9,180000,3.5,Metropolitana,2013,gasolina,automatico
+DODGE,JOURNEY,12.99,1111,2.4,Metropolitana,2017,gasolina,automatico
+FORD,EXPLORER,9.8,172000,3.5,Metropolitana,2011,gasolina,automatico
+NISSAN,MURANO,9.69,152000,3.5,Metropolitana,2013,gasolina,automatico
+BMW,X3,28.89,36000,2.0,Metropolitana,2018,diesel,automatico
+M. BENZ,C300,26.99,66000,2.0,Metropolitana,2019,diesel,automatico
+FORD,F-150,24.99,153000,6.2,Metropolitana,2015,gasolina,automatico
+SUZUKI,SWIFT,5.99,97000,1.2,Metropolitana,2016,gasolina,mecanico
+RENAULT,FLUENCE,6.49,97000,2.0,Metropolitana,2011,gasolina,automatico
+CITROEN,C3,6.49,93000,1.6,Metropolitana,2014,gasolina,automatico
+SUBARU,LEGACY,6.95,138000,2.0,Metropolitana,2011,gasolina,automatico
+NISSAN,TERRANO,6.99,240000,2.5,Metropolitana,2024,diesel,mecanico
+CHEVROLET,PRISMA,6.99,118000,1.4,Metropolitana,2019,gasolina,mecanico
+SKODA,FABIA,13.168817,18439,1.0,Metropolitana,2022,gasolina,mecanico
+TOYOTA,PRIUS,7.49,122000,1.5,Metropolitana,2013,hibrido,automatico
+FIAT,UNO,6.5,85000,1.4,Los Lagos,2018,gasolina,mecanico
+RENAULT,DUSTER,8.0,33000,1.6,Metropolitana,2017,gasolina,mecanico
+CHEVROLET,COLORADO,7.99,160000,3.7,Metropolitana,2012,gasolina,automatico
+VOLKSWAGEN,AMAROK,7.99,211000,2.0,Metropolitana,2011,diesel,mecanico
+NISSAN,QASHQAI,7.99,92000,2.0,Metropolitana,2012,gasolina,automatico
+VOLVO,S60,15.6,103000,2.0,Metropolitana,2019,diesel,automatico
+DS,DS3,15.47,57214,1.2,Metropolitana,2021,gasolina,automatico
+OPEL,CROSSLAND,14.8029,26668,1.5,Metropolitana,2022,diesel,mecanico
+TOYOTA,RAV4,6.49,164100,2.4,Metropolitana,2004,gasolina,automatico
+VOLKSWAGEN,GOLF,12.17,104653,1.4,Metropolitana,2018,gasolina,automatico
+MAZDA,CX5,8.99,173000,2.0,Metropolitana,2014,gasolina,automatico
+SKODA,OCTAVIA,8.99,100000,1.4,Metropolitana,2016,gasolina,automatico
+CHEVROLET,CAPTIVA,8.99,124000,2.4,Metropolitana,2016,gasolina,automatico
+RAM,700,8.99,33000,1.4,Metropolitana,2022,gasolina,mecanico
+HYUNDAI,CRETA,8.99,97000,1.6,Metropolitana,2016,gasolina,mecanico
+MG,ZS,9.49,60000,1.5,Metropolitana,2019,gasolina,automatico
+AUDI,A4,9.49,134000,1.8,Metropolitana,2014,gasolina,automatico
+CHEVROLET,TRACKER,9.99,93000,1.8,Metropolitana,2018,gasolina,automatico
+JEEP,COMPASS,9.99,109000,2.4,Metropolitana,2014,gasolina,automatico
+JEEP,COMPASS,10.49,61000,2.4,Metropolitana,2014,gasolina,automatico
+LAND ROVER,FREELANDER,10.49,136000,3.2,Metropolitana,2012,gasolina,automatico
+NISSAN,PATHFINDER,10.49,112000,3.5,Metropolitana,2015,gasolina,automatico
+KIA,SORENTO,12.97,155000,2.4,Metropolitana,2015,gasolina,automatico
+BMW,523I,9.98,210000,2.5,Metropolitana,2012,gasolina,automatico
+SUZUKI,GRAND NOMADE,6.28,134500,2.4,Metropolitana,2011,gasolina,mecanico
+VOLKSWAGEN,GOLF,12.17,104653,1.4,Metropolitana,2018,gasolina,automatico
+AUDI,S6,10.99,156000,4.2,Metropolitana,2002,gasolina,automatico
+M. BENZ,A250,24.49,60000,2.0,Metropolitana,2019,gasolina,automatico
+HAVAL,H6,11.49,45000,1.5,Metropolitana,2017,gasolina,automatico
+CHEVROLET,TRAVERSE,24.99,95000,3.6,Metropolitana,2021,gasolina,automatico
+HYUNDAI,GENESIS,11.49,75000,3.3,Metropolitana,2012,gasolina,automatico
+FORD,EXPLORER,11.49,105000,2.0,Metropolitana,2015,gasolina,automatico
+BMW,120I,11.99,77000,1.6,Metropolitana,2016,gasolina,mecanico
+FORD,F-150,24.99,153000,6.2,Metropolitana,2015,gasolina,automatico
+BMW,X1,11.99,127000,2.0,Metropolitana,2013,gasolina,automatico
+OPEL,CORSA,12.19,100000,1.6,Metropolitana,2017,gasolina,mecanico
+SEAT,IBIZA,12.99,19000,1.6,Metropolitana,2022,gasolina,mecanico
+TOYOTA,4RUNNER,23.99,147000,4.0,Metropolitana,2018,gasolina,automatico
+FIAT,500X,12.49,65000,1.4,Metropolitana,2019,gasolina,automatico
+SUBARU,XV,25.99,9000,2.0,Metropolitana,2023,hibrido,automatico
+VOLVO,S60,12.99,112000,2.0,Metropolitana,2018,diesel,automatico
+VOLKSWAGEN,POLO,12.99,26000,1.6,Metropolitana,2021,gasolina,automatico
+FORD,EDGE,12.99,111000,3.5,Metropolitana,2015,gasolina,automatico
+BMW,X6,20.97,131000,3.0,Metropolitana,2011,gasolina,automatico
+FIAT,500X,13.49,60000,1.4,Metropolitana,2020,gasolina,automatico
+CHEVROLET,COLORADO,29.9,29000,,Metropolitana,2022,diesel,automatico
+TOYOTA,4RUNNER,21.99,147000,4.0,Metropolitana,2012,gasolina,
+MAXUS,T60,11.99,144998,2.8,Los Lagos,2018,diesel,automatico
+VOLKSWAGEN,GOLF,12.17,104653,1.4,Metropolitana,2018,gasolina,automatico
+VOLKSWAGEN,JETTA,13.99,130000,1.4,Metropolitana,2019,gasolina,automatico
+HUMMER,H3,14.78,112544,3.5,Metropolitana,2008,gasolina,automatico
+M. BENZ,A200,13.99,65000,1.6,Metropolitana,2014,gasolina,mecanico
+SUBARU,WRX,38.99,3000,2.5,Metropolitana,2022,gasolina,mecanico
+AUDI,Q7,14.79,89000,3.6,Metropolitana,2008,gasolina,automatico
+BMW,X6,31.99,89000,3.0,Metropolitana,2016,gasolina,automatico
+MITSUBISHI,OUTLANDER,14.99,37000,2.0,Metropolitana,2022,gasolina,mecanico
+M. BENZ,A35,34.99,41000,2.0,Metropolitana,2020,gasolina,automatico
+TOYOTA,FJ,14.99,140000,4.0,Metropolitana,2008,gasolina,automatico
+CITROEN,C3,13.45,20000,1.2,Metropolitana,2021,gasolina,automatico
+TOYOTA,HILUX,15.49,133000,2.4,Metropolitana,2018,diesel,mecanico
+FORD,MUSTANG,35.99,12000,5.0,Metropolitana,2021,gasolina,automatico
+TOYOTA,HILUX,15.49,124000,2.8,Metropolitana,2018,diesel,mecanico
+LAND ROVER,RANGE ROVER SPORT,31.99,101000,3.0,Metropolitana,2014,diesel,automatico
+MITSUBISHI,MONTERO,15.49,210000,3.2,Metropolitana,2014,diesel,automatico
+FORD,F-150,31.99,76000,3.5,Metropolitana,2019,gasolina,automatico
+TOYOTA,RAV4,15.99,62000,2.0,Metropolitana,2018,gasolina,mecanico
+MINI,COOPER,29.47,8482,2.0,Metropolitana,2023,gasolina,automatico
+PEUGEOT,3008,15.99,98000,1.5,Metropolitana,2021,diesel,automatico
+CHEVROLET,SILVERADO,39.97,60000,5.3,Metropolitana,2022,gasolina,automatico
+MAZDA,BT-50,16.49,82000,2.2,Metropolitana,2020,diesel,mecanico
+MAZDA,CX-5,16.99,37000,2.0,Metropolitana,2020,gasolina,
+OPEL,MOKKA,16.99,5000,1.2,Metropolitana,2023,gasolina,mecanico
+VOLKSWAGEN,BEETLE,16.99,36000,1.4,Metropolitana,2019,gasolina,automatico
+LAND ROVER,DISCOVERY,18.97,210000,3.0,Metropolitana,2014,diesel,automatico
+CHEVROLET,TAHOE,29.59,63000,5.3,Metropolitana,2017,gasolina,automatico
+M. BENZ,E200,17.5,130000,2.0,Metropolitana,2015,gasolina,automatico
+NISSAN,QASHQAI,14.47,65000,2.0,Metropolitana,2018,gasolina,automatico
+NISSAN,QASHQAI,14.0,19000,2.0,Metropolitana,2020,gasolina,mecanico
+PEUGEOT,5008,25.99,15700,1.6,Metropolitana,2021,gasolina,automatico
+VOLKSWAGEN,GOLF,12.17,104653,1.4,Metropolitana,2018,gasolina,automatico
+BMW,218,21.99,34000,1.5,Metropolitana,2020,gasolina,automatico
+FORD,F150,34.97,116000,,Metropolitana,2020,gasolina,automatico
+CITROEN,C4,6.99,113600,1.2,Biobío,2018,gasolina,mecanico
+SEAT,LEON,22.99,35000,2.0,Metropolitana,2021,gasolina,automatico
+DODGE,JOURNEY,10.59,122528,2.4,Metropolitana,2015,gasolina,automatico
+TOYOTA,4RUNNER,23.99,147000,4.0,Metropolitana,2018,gasolina,automatico
+VOLKSWAGEN,AMAROK,22.19,120660,2.0,Metropolitana,2019,diesel,automatico
+M. BENZ,A250,24.49,60000,2.0,Metropolitana,2019,gasolina,automatico
+HAVAL ,H6,14.99,25000,2.0,Biobío,2022,gasolina,automatico
+HYUNDAI,VENUE,10.99,39000,1.6,Metropolitana,2020,gasolina,automatico
+CHEVROLET,TRAVERSE,24.99,95000,3.6,Metropolitana,2021,gasolina,automatico
+PEUGEOT,301,8.99,131535,1.6,Biobío,2021,diesel,mecanico
+SUBARU,XV,25.99,9000,2.0,Metropolitana,2023,hibrido,automatico
+HONDA,CIVIC,14.49,105000,1.8,Metropolitana,2016,gasolina,automatico
+M. BENZ,C300,26.99,66000,2.0,Metropolitana,2019,diesel,automatico
+NISSAN,MURANO,26.99,57000,3.5,Metropolitana,2012,gasolina,automatico
+BMW,X3,28.89,36000,2.0,Metropolitana,2018,diesel,automatico
+MINI,COOPER,28.99,26000,2.0,Metropolitana,2021,gasolina,automatico
+JEEP,GRAND CHEROKEE,9.99,194395,3.6,Biobío,2014,gasolina,automatico
+HONDA,PILOT,28.99,45000,3.5,Metropolitana,2020,gasolina,automatico
+JEEP,WRANGLER,29.49,136000,3.6,Metropolitana,2019,gasolina,automatico
+TOYOTA,YARIS,6.58,104000,1.5,Metropolitana,2014,gasolina,automatico
+M. BENZ,S500,20.97,130000,,Metropolitana,2009,gasolina,automatico
+HONDA,ACCORD,17.97,69000,3.5,Metropolitana,2016,gasolina,automatico
+BMW,318,16.97,102000,1.5,Metropolitana,2017,gasolina,automatico
+HYUNDAI,SANTA FE,15.97,59000,2.4,Metropolitana,2017,,
+VOLKSWAGEN,GOLF,12.17,104653,1.4,Metropolitana,2018,gasolina,automatico
+SUBARU,WRX,38.99,3000,2.5,Metropolitana,2022,gasolina,mecanico
+PEUGEOT,3008,18.9,52200,,Metropolitana,2019,gasolina,automatico
+TOYOTA,LAND CRUISER PRADO,39.99,26000,4.0,Metropolitana,2022,gasolina,automatico
+FORD,ECOSPORT,11.29,65846,1.5,Metropolitana,2021,gasolina,automatico
+LAND ROVER,DISCOVERY,32.98,53408,3.0,Metropolitana,2018,gasolina,automatico
+DS,DS4,29.5,1600,1.5,Metropolitana,2023,diesel,automatico
+SUZUKI,VITARA,14.49,83300,1.4,Metropolitana,2019,gasolina,automatico
+TOYOTA,4RUNNER,23.89,120900,4.0,Metropolitana,2016,gasolina,automatico
+FORD,ESCAPE,6.99,227000,,Metropolitana,2009,gasolina,automatico
+FORD,F-150,38.49,19383,,Metropolitana,2020,gasolina,automatico
+HONDA,PILOT,11.69,183000,3.5,Maule,2012,gasolina,automatico
+MAZDA,CX-5,12.99,83000,2.0,Metropolitana,2013,gasolina,automatico
+TOYOTA,YARIS,6.58,104000,1.5,Metropolitana,2014,gasolina,automatico
+CHERY,TIGGO 7 PRO,14.5,9500,1.5,Metropolitana,2022,gasolina,automatico
+VOLKSWAGEN,GOLF,12.17,104653,1.4,Metropolitana,2018,gasolina,automatico
+JEEP,CHEROKEE,13.5,90000,3.2,Metropolitana,2017,gasolina,automatico
+TOYOTA,RAV4,12.5,126000,2.0,Metropolitana,2016,gasolina,automatico
+JAC,S4,12.5,80000,,Metropolitana,2021,gasolina,automatico
+VOLKSWAGEN,GOLF,12.17,104653,1.4,Metropolitana,2018,gasolina,automatico
+DS,DS7,17.98,99000,,Valparaíso,2019,gasolina,automatico
+LAND ROVER,DISCOVERY,38.89,23000,2.0,Metropolitana,2022,gasolina,
+PEUGEOT,2008,9.58,120000,1.5,Valparaíso,2019,diesel,mecanico
+KIA,MORNING,4.55,131000,1.2,Valparaíso,2013,gasolina,mecanico
+MINI,JOHN,12.18,178000,1.6,Valparaíso,2010,gasolina,mecanico
+SUBARU,OUTBACK,2.75,204000,2.5,Valparaíso,2002,gasolina,mecanico
+JEEP,GRAND CHEROKEE,13.95,116000,3.6,Valparaíso,2013,gasolina,automatico
+JEEP,GRAND CHEROKEE,16.95,151000,3.6,Valparaíso,2015,gasolina,automatico
+JEEP,GRAND CHEROKEE,13.95,116000,3.6,Valparaíso,2013,gasolina,automatico
+JEEP,GRAND CHEROKEE,16.95,151000,3.6,Valparaíso,2015,gasolina,automatico
+FORD,EXPLORER,11.95,146000,,Valparaíso,2014,gasolina,
+M. BENZ,C200,6.15,203048,1.8,O’Higgins,2007,gasolina,automatico
+PEUGEOT,3008,14.59,73000,1.6,Metropolitana,2017,gasolina,automatico
+TOYOTA,PRIUS,9.69,121000,1.5,Biobío,2018,hibrido,automatico
+HONDA,CR-V,9.98,117000,2.4,Valparaíso,2015,gasolina,automatico
+PEUGEOT,308,12.98,48000,1.2,Valparaíso,2019,gasolina,automatico
+KIA,SELTOS,13.98,23000,1.6,Valparaíso,2022,gasolina,
+JEEP,GRAND CHEROKEE,38.79,46402,3.6,O’Higgins,2022,gasolina,automatico
+VOLKSWAGEN,TIGUAN,21.99,83083,2.0,O’Higgins,2019,gasolina,automatico
+BMW,320,17.78,68000,2.0,Valparaíso,2017,gasolina,automatico
+JEEP,COMPASS,10.59,65926,2.4,O’Higgins,2015,gasolina,automatico
+CHANGAN,HUNTER,19.49,12214,1.9,O’Higgins,2023,diesel,mecanico
+CITROEN,C5,14.68,114000,2.0,Valparaíso,2019,diesel,automatico
+NISSAN,MURANO,20.99,75000,3.5,Metropolitana,2019,gasolina,automatico
+HYUNDAI,CRETA,16.59,21000,2.0,Ñuble,2022,gasolina,mecanico
+KIA,SORENTO,19.49,118000,2.2,Metropolitana,2018,diesel,automatico
+PEUGEOT,301,6.99,155000,1.6,Metropolitana,2015,diesel,mecanico
+TOYOTA,FORTUNER,26.99,15000,2.7,Metropolitana,2022,gasolina,automatico
+NISSAN,QASHQAI,9.99,80000,2.0,Metropolitana,2017,gasolina,mecanico
+VOLVO,V40,14.19,130000,2.0,Metropolitana,2019,diesel,mecanico
+KIA,SPORTAGE,27.5,24000,2.0,Valparaíso,2023,diesel,automatico
+JEEP,GRAND CHEROKEE,18.99,125000,3.0,Metropolitana,2016,diesel,automatico
+CHERY,GRAND TIGGO,8.99,7000,4.2,Metropolitana,2022,gasolina,mecanico
+AUDI,A4,8.19,140000,1.8,Metropolitana,2011,gasolina,automatico
+SSANGYONG,STAVIC,16.99,150000,2.2,Metropolitana,2019,diesel,automatico
+NISSAN,PATHFINDER,13.58,82000,3.5,Valparaíso,2017,gasolina,automatico
+SUBARU,OUTBACK,9.98,230000,2.5,Valparaíso,2015,gasolina,automatico
+VOLKSWAGEN,AMAROK,21.0,46500,2.0,Valparaíso,2021,diesel,mecanico
+RENAULT,MEGANE,6.58,92700,1.6,Metropolitana,2016,gasolina,mecanico
+NISSAN,QASHQAI,8.68,130500,2.0,Metropolitana,2015,gasolina,automatico
+NISSAN,QASHQAI,8.98,72112,,Metropolitana,2014,gasolina,automatico
+MG,GT,13.58,11200,1.5,Metropolitana,2023,gasolina,automatico
+TOYOTA,RAV4,10.98,96000,2.0,Valparaíso,2016,gasolina,mecanico
+M. BENZ,VITO,14.98,289900,,Metropolitana,2017,diesel,
+M. BENZ,SPRINTER,16.98,374824,,Metropolitana,2014,diesel,mecanico
+VOLKSWAGEN,SAVEIRO,7.98,68000,1.6,Metropolitana,2019,gasolina,mecanico
+MAZDA,MAZDA2,6.58,62753,1.5,Metropolitana,2015,gasolina,mecanico
+JEEP,GRAND CHEROKEE,13.98,166000,3.0,Metropolitana,2013,diesel,automatico
+HYUNDAI,ACCENT,8.95,57700,1.4,Metropolitana,2018,gasolina,automatico
+HONDA,PILOT,22.98,94000,3.5,Metropolitana,2018,gasolina,automatico
+FORD,EXPLORER,14.98,71766,2.0,Metropolitana,2015,gasolina,automatico
+SUZUKI,SWIFT,7.98,57565,1.2,Metropolitana,2018,gasolina,mecanico
+CHEVROLET,ONIX,13.8,22000,1.0,Coquimbo,2023,gasolina,automatico
+JAC,T8,13.3,42000,2.0,Valparaíso,2022,diesel,mecanico
+BMW,320I,14.7,90982,2.0,Metropolitana,2016,gasolina,automatico
+FORD,TERRITORY,15.69,12000,1.5,Valparaíso,2023,gasolina,automatico
+M. BENZ,A45,24.49,112276,2.0,O’Higgins,2014,gasolina,automatico
+CHEVROLET,TRACKER,16.29,3123,1.2,Los Lagos,2023,gasolina,automatico
+HYUNDAI,SANTA FE,21.0,26000,2.4,Maule,2020,gasolina,automatico
+AUDI,A3,12.49,92701,1.4,Los Lagos,2015,gasolina,automatico
+KIA,OPTIMA,14.99,35380,2.0,Los Lagos,2018,gasolina,automatico
+HYUNDAI,TUCSON,13.99,73373,2.0,Los Lagos,2018,gasolina,automatico
+KIA,SOLUTO,9.5,20571,1.4,Los Lagos,2023,gasolina,mecanico
+TOYOTA,HILUX,18.98,105637,2.4,Los Lagos,2018,diesel,mecanico
+FIAT,STRADA,6.99,103785,1.6,Biobío,2015,gasolina,mecanico
+RAM,VAN 700,5.98,80000,1.4,Metropolitana,2020,gasolina,mecanico
+TOYOTA,RAV4,4.98,230000,2.4,Metropolitana,2007,gasolina,automatico
+SUBARU,IMPREZA,8.48,95000,2.0,Metropolitana,2015,gasolina,automatico
+SUZUKI,DZIRE,7.48,96000,1.2,Metropolitana,2020,gasolina,mecanico
+KIA,SPORTAGE,7.99,81238,2.0,Biobío,2012,gasolina,mecanico
+VOLKSWAGEN,AMAROK,19.99,90000,2.0,Metropolitana,2019,diesel,
+VOLVO,XC60,18.99,61000,2.0,Metropolitana,2017,gasolina,automatico
+MG,MG5,9.29,33000,1.5,Metropolitana,2021,gasolina,automatico
+FORD,FIESTA,8.48,73000,2.0,Metropolitana,2018,gasolina,automatico
+JEEP,GRAND CHEROKEE,28.99,25000,3.6,Metropolitana,2020,gasolina,automatico
+FIAT,500,7.85,87000,1.4,Metropolitana,2016,gasolina,mecanico
+VOLVO,V40,8.99,157340,2.0,Biobío,2016,diesel,mecanico
+CUPRA,FORMENTOR,26.38,36000,,Valparaíso,2023,,automatico
+PEUGEOT,208,6.99,173970,1.6,Biobío,2014,diesel,mecanico
+SUZUKI,VITARA,14.35,50000,1.4,Metropolitana,2019,gasolina,automatico
+JEEP,COMPASS,6.99,150890,2.4,Biobío,2012,gasolina,automatico
+FORD,RANGER,9.9,384005,3.2,Biobío,2016,diesel,mecanico
+FIAT,FULLBACK,9.9,207490,2.4,Biobío,2018,diesel,mecanico
+JEEP,PATRIOT,8.99,87150,2.4,Biobío,2015,gasolina,automatico
+MAZDA,BT-50,7.99,160715,2.5,Biobío,2011,diesel,mecanico
+NISSAN,QASHQAI,7.48,134000,2.0,Metropolitana,2014,gasolina,mecanico
+NISSAN,X-TRAIL,6.49,120530,2.5,Biobío,2009,gasolina,automatico
+AUDI,A6,16.59,107000,3.0,Metropolitana,2014,diesel,automatico
+M. BENZ,C200,18.49,34000,1.8,Metropolitana,2015,gasolina,automatico
+JAC,A13,3.42,62000,,Metropolitana,2011,gasolina,mecanico
+SANGYONG,NEW REXTON,10.45,130000,,Metropolitana,2013,diesel,mecanico
+GREAT WALL,POER,13.775,120000,,Metropolitana,2021,diesel,mecanico
+OPEL,INSIGNIA,6.98,150000,2.0,Metropolitana,2012,gasolina,automatico
+SSANGYONG,REXTON,11.5,153000,,Metropolitana,2013,diesel,automatico
+PEUGEOT,208,10.7,38000,,Valparaíso,2021,gasolina,mecanico
+MAZDA,MAZDA6,12.35,90000,2.0,Metropolitana,2016,gasolina,automatico
+MAZDA,MAZDA3,6.0,125675,1.6,Maule,2013,gasolina,mecanico
+BMW,Z4,27.0,99000,3.0,Metropolitana,2015,gasolina,automatico
+SANGYONG,NEW REXTON,10.99,167450,2.0,Biobío,2015,diesel,mecanico
+KIA,SORENTO,8.48,95500,2.2,Valparaíso,2010,diesel,automatico
+FORD,EDGE,20.99,116785,3.5,Metropolitana,2019,gasolina,automatico
+CHEVROLET,AVALANCHE,16.99,118000,5.3,Metropolitana,2013,gasolina,automatico
+M. BENZ,GLA,23.99,46600,1.6,Metropolitana,2021,gasolina,automatico
+CHEVROLET,SILVERADO,32.99,89000,5.3,Metropolitana,2020,gasolina,automatico
+JEEP,CHEROKEE,13.99,85800,3.2,Metropolitana,2014,gasolina,automatico
+SUBARU,OUTBACK,12.99,75700,2.5,Metropolitana,2016,gasolina,automatico
+JEEP,PATRIOT,8.49,104800,2.4,Metropolitana,2013,gasolina,
+VOLVO,XC60,11.99,209420,3.0,Biobío,2014,gasolina,automatico
+SKODA,YETI,9.29,140000,1.2,Metropolitana,2016,gasolina,mecanico
+MG,GT,5.58,107852,,Metropolitana,2017,gasolina,mecanico
+SUZUKI,GRAND VITARA,5.99,179315,1.6,Biobío,2009,gasolina,mecanico
+MG,MG3,8.181916,24361,1.5,Metropolitana,2022,gasolina,mecanico
+KIA,MORNING,8.717204,9065,1.2,Metropolitana,2023,gasolina,mecanico
+NISSAN,VERSA,8.804348,13127,,Metropolitana,2022,gasolina,mecanico
+CITROEN,C3,9.909081,75615,1.5,Metropolitana,2020,diesel,mecanico
+MG,ZX,10.662405,6248,1.5,Metropolitana,2023,gasolina,mecanico
+VOLKSWAGEN,SAVEIRO,10.986433,23878,1.6,Metropolitana,2020,gasolina,mecanico
+SUZUKI,BALENO,11.226923,24038,1.4,Metropolitana,2022,gasolina,automatico
+MG,ZX,11.287433,30510,1.5,Metropolitana,2023,gasolina,automatico
+RENAULT,CLIO,11.55675,6801,1.0,Metropolitana,2022,gasolina,mecanico
+OPEL,COMBO,12.852432,61705,1.6,Metropolitana,2022,diesel,mecanico
+SUBARU,IMPREZA,13.198433,16396,1.6,Metropolitana,2017,gasolina,automatico
+SEAT,IBIZA,13.201795,13373,1.6,Metropolitana,2023,gasolina,automatico
+FIAT,PULSE,13.42065,33943,1.0,Metropolitana,2022,gasolina,automatico
+VOLKSWAGEN,POLO,13.990568,34513,1.6,Metropolitana,2022,gasolina,automatico
+SUBARU,XV,14.85623,82843,2.0,Metropolitana,2016,gasolina,automatico
+MAZDA,MAZDA3,15.19942,33320,2.0,Metropolitana,2021,gasolina,mecanico
+HYUNDAI,TUCSON,16.48542,20186,2.0,Metropolitana,2019,gasolina,automatico
+PEUGEOT,308,16.493456,10304,1.5,Metropolitana,2022,gasolina,mecanico
+VOLKSWAGEN,TIGUAN,22.79842,18012,1.4,Metropolitana,2022,gasolina,automatico
+CITROEN,C5,16.65892,38367,1.5,Metropolitana,2021,diesel,mecanico
+KIA,CERATO,16.8164,5431,1.6,Metropolitana,2022,gasolina,mecanico
+MAZDA,CX-3,16.94042,35383,2.0,Metropolitana,2021,gasolina,automatico
+OPEL,CORSA,16.987225,199,1.2,Metropolitana,2024,gasolina,automatico
+MINI,COOPER,19.0855,58032,1.5,Metropolitana,2020,gasolina,mecanico
+VOLKSWAGEN,TIGUAN,20.99042,74414,2.0,Metropolitana,2019,gasolina,automatico
+MAXUS,T60,23.19075,315,,Metropolitana,2023,diesel,automatico
+MINI,COOPER,23.89542,23330,2.0,Metropolitana,2019,gasolina,automatico
+FORD,EXPLORER,24.590561,33278,3.5,Metropolitana,2020,gasolina,automatico
+BMW,X1,29.90242,19785,,Metropolitana,2021,gasolina,automatico
+CHEVROLET,SILVERADO,36.390433,43913,5.3,Metropolitana,2021,gasolina,automatico
+JEEP,GRAND CHEROKEE,38.49042,38521,3.6,Metropolitana,2021,gasolina,automatico
+CHEVROLET,COLORADO,18.99,102900,2.8,Biobío,2020,diesel,automatico
+VOLVO,V40,16.99,58000,2.0,Metropolitana,2020,gasolina,automatico
+FORD,FOCUS,7.78,68312,,Metropolitana,2018,gasolina,mecanico
+CHEVROLET,CAPTIVA,10.99,38960,1.5,Biobío,2021,gasolina,mecanico
+BMW,318,17.98,59300,1.5,Metropolitana,2018,gasolina,automatico
+CHEVROLET,CAPTIVA,11.49,166600,2.2,Metropolitana,2018,diesel,
+SUBARU,FORESTER,10.99,132190,2.0,Biobío,2016,diesel,automatico
+RENAULT,KOLEOS,20.5,25000,2.5,O’Higgins,2021,gasolina,automatico
+CHERY,GRAND TIGGO,6.49,46000,2.0,Metropolitana,2017,gasolina,mecanico
+FORD,ECOSPORT,6.99,143000,,Metropolitana,2015,gasolina,mecanico
+KIA,SPORTAGE,12.49,83000,,Metropolitana,2019,gasolina,mecanico
+SSANGYONG,GRAND MUSSO,14.99,90000,2.2,Metropolitana,2019,diesel,mecanico
+SUZUKI,CELERIO,6.49,112000,1.0,Metropolitana,2019,gasolina,mecanico
+TOYOTA,PRIUS,11.99,47000,1.8,Metropolitana,2018,hibrido,automatico
+CHEVROLET,ONIX,10.49,50000,1.0,Metropolitana,2021,gasolina,mecanico
+CHEVROLET,D-MAX,7.49,180000,3.0,Metropolitana,2008,diesel,mecanico
+SUZUKI,GRAND VITARA,6.49,199000,1.6,Metropolitana,2010,gasolina,mecanico
+MG,ZS,8.99,40000,1.5,Metropolitana,2021,gasolina,mecanico
+NISSAN,VERSA,7.29,45000,,Metropolitana,2019,gasolina,mecanico
+SSANGYONG,STAVIC,12.99,110000,2.2,Metropolitana,2018,diesel,mecanico
+KIA,CERATO,5.49,110000,,Metropolitana,2012,gasolina,mecanico
+NISSAN,ALTIMA,8.99,115000,3.5,Metropolitana,2013,gasolina,automatico
+CITROEN,C3,7.99,126000,1.6,Metropolitana,2015,diesel,mecanico
+HYUNDAI,ACCENT,7.99,90000,,Metropolitana,2018,gasolina,mecanico
+M. BENZ,GLA,20.99,104000,2.1,Metropolitana,2018,diesel,automatico
+MAXUS,T60,9.99,86060,2.8,Biobío,2021,diesel,mecanico
+PEUGEOT,5008,11.99,56000,2.0,Metropolitana,2015,diesel,automatico
+CHEVROLET,CAVALIER,7.99,35000,1.5,Metropolitana,2019,gasolina,mecanico
+CHERY,ARRIZO 3,6.49,93000,1.5,Metropolitana,2017,gasolina,mecanico
+NISSAN,VERSA,7.29,120000,1.6,Metropolitana,2019,gasolina,mecanico
+M. BENZ,C200,11.99,145730,2.0,Biobío,2012,gasolina,automatico
+CHEVROLET,ONIX,6.49,99000,,Metropolitana,2019,gasolina,mecanico
+CHEVROLET,ONIX,8.99,43000,1.0,Metropolitana,2021,gasolina,mecanico
+FORD,TERRITORY,15.19,26500,1.5,Metropolitana,2022,gasolina,automatico
+PEUGEOT,5008,16.99,90000,1.6,Metropolitana,2018,diesel,automatico
+FORD,EXPLORER,19.49,95000,2.3,Metropolitana,2018,gasolina,automatico
+AUDI,A6,10.79,145000,2.0,Metropolitana,2012,gasolina,automatico
+CITROEN,C5,24.99,18000,1.5,Metropolitana,2023,diesel,automatico
+M. BENZ,A250,25.0,44000,,Antofagasta,2019,gasolina,automatico
+CHEVROLET,ONIX,11.5,51500,1.0,Metropolitana,2022,gasolina,automatico
+SUZUKI,DZIRE,8.0,24000,1.2,Metropolitana,2019,gasolina,mecanico
+GREAT WALL,DEER,2.78,250000,2.2,Metropolitana,2008,gasolina,mecanico
+CHEVROLET,COLORADO,25.99,49050,2.8,Biobío,2022,diesel,automatico
+CHEVROLET,D-MAX,7.49,180000,3.0,Metropolitana,2008,diesel,mecanico
+SUZUKI,GRAND VITARA,6.49,199000,1.6,Metropolitana,2010,gasolina,mecanico
+MG,ZS,8.99,40000,1.5,Metropolitana,2021,gasolina,mecanico
+NISSAN,VERSA,7.29,45000,,Metropolitana,2019,gasolina,mecanico
+SSANGYONG,STAVIC,12.99,110000,2.2,Metropolitana,2018,diesel,mecanico
+KIA,CERATO,5.49,110000,,Metropolitana,2012,gasolina,mecanico
+NISSAN,ALTIMA,8.99,115000,3.5,Metropolitana,2013,gasolina,automatico
+CITROEN,C3,7.99,126000,1.6,Metropolitana,2015,diesel,mecanico
+HYUNDAI,ACCENT,7.99,90000,,Metropolitana,2018,gasolina,mecanico
+PEUGEOT,5008,11.99,56000,2.0,Metropolitana,2015,diesel,automatico
+CHEVROLET,CAVALIER,7.99,35000,1.5,Metropolitana,2019,gasolina,mecanico
+CHERY,ARRIZO 3,6.49,93000,1.5,Metropolitana,2017,gasolina,mecanico
+NISSAN,VERSA,7.29,120000,1.6,Metropolitana,2019,gasolina,mecanico
+CHEVROLET,ONIX,6.49,99000,,Metropolitana,2019,gasolina,mecanico
+CHEVROLET,ONIX,8.99,43000,1.0,Metropolitana,2021,gasolina,mecanico
+FORD,TERRITORY,15.19,26500,1.5,Metropolitana,2022,gasolina,automatico
+CITROEN,C5,24.99,18000,1.5,Metropolitana,2023,diesel,automatico
+M. BENZ,A250,25.0,44000,,Antofagasta,2019,gasolina,automatico
+SUZUKI,DZIRE,8.0,24000,1.2,Metropolitana,2019,gasolina,mecanico
+GREAT WALL,DEER,2.78,250000,2.2,Metropolitana,2008,gasolina,mecanico
